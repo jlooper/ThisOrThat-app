@@ -21,7 +21,7 @@ function GameViewModel(items) {
 	var viewModel = new observableArrayModule.ObservableArray(items);
 
 	viewModel.clearImages = function(){
-		
+
 	}
 
 
@@ -36,7 +36,7 @@ function GameViewModel(items) {
 	}
 	if(tmpSelection2 == tmpSelection1){
 		var msg = "You picked the same picture twice. Please try again!";
-		viewModel.sho("Oops!",msg,null)
+		viewModel.showAlert("Oops!",msg,null)
 	}
 	else {
 	var msg = "You picked "+imgName+"!";

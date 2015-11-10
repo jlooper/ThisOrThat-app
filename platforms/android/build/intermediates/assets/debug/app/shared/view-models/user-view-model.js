@@ -106,6 +106,15 @@ function User(info) {
 		return validator.validate(email);
 	};
 
+	viewModel.isComplete = function(){
+		if(this.get("email") && this.get("password") && this.get("displayname")){
+			return true
+		}
+		else{
+			return false
+		}
+	}
+
 	return viewModel;
 }
 

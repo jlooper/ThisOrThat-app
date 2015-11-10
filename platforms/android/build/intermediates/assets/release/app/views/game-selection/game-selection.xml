@@ -1,0 +1,36 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded" navigatedTo="navigatedTo">
+	
+	<Page.actionBar>
+		<ActionBar title="Pick Two!">
+			<ActionBar.actionItems>
+				<ActionItem android.text="High Scores" tap="getHighScores" ios:icon="res://trophy" android:icon="res://trophy" ios.position="right" />
+				<ActionItem android.text="My Scores" tap="getMyScores" ios:icon="res://crown" android:icon="res://crown" ios.position="right" />
+				<ActionItem android.text="Settings" tap="getSettings" ios:icon="res://settings" android:icon="res://settings" ios.position="left" />
+
+			</ActionBar.actionItems>
+		</ActionBar>
+	</Page.actionBar>
+
+	
+
+	<GridLayout dock="top" id="gameView"> 
+
+
+			<GridLayout columns="*,*" rows="*,*,*" id="gameGrid">
+				
+			    
+			    <Image row="0" col="0" src="~/images/cat.jpg" id="cat"/>
+			    <Image row="0" col="1" src="~/images/dog.jpg" id="dog"/>
+
+			    <Image row="1" col="0" src="~/images/hat.jpg" id="hat"/>
+			    <Image row="1" col="1" src="~/images/orange.jpg" id="orange"/>
+
+			    <Image row="2" col="0" src="~/images/apple.jpg" id="apple"/>
+			    <Image row="2" col="1" src="~/images/bird.jpg" id="bird"/>
+			    
+			</GridLayout>
+	  
+
+	</GridLayout>
+
+</Page>

@@ -1,0 +1,26 @@
+{
+	"name": "ThisOrThat",
+	"main": "app.js",
+	"jsoptions": "--expose_gc",
+	"version": "1.3.0",
+	"author": "Ladeez First Media",
+	"description": "A fun game of word associations",
+	"license": "BSD",
+	"keywords": [
+		"game",
+		"mobile",
+		"nativescript",
+		"{N}",
+		"tns",
+		"appbuilder",
+		"words"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/NativeScript/template-hello-world.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NativeScript/template-hello-world/issues"
+	},
+	"homepage": "https://github.com/NativeScript/template-hello-world"
+}

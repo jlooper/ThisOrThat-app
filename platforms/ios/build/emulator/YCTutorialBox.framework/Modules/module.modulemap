@@ -1,0 +1,6 @@
+framework module YCTutorialBox {
+  umbrella header "YCTutorialBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

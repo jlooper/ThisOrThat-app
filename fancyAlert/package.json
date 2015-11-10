@@ -1,0 +1,11 @@
+{
+ "name": "fancyAlert",
+ "version": "1.0.0",
+ "description": "A pretty alert",
+ "main": "index.js",
+ "nativescript": {
+   "platforms": {
+     "ios": "1.3.0"
+   		}
+	}
+}

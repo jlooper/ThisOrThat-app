@@ -1,0 +1,57 @@
+{
+  "name": "email-validator",
+  "version": "1.0.3",
+  "author": {
+    "name": "Robert Schultz",
+    "email": "robert@cosmicrealms.com"
+  },
+  "description": "Provides a fast, pretty robust e-mail validator. Only checks form, not function.",
+  "main": "index",
+  "engines": {
+    "node": ">0.3.0"
+  },
+  "keywords": [
+    "email",
+    "validation",
+    "validator",
+    "syntax"
+  ],
+  "homepage": "http://github.com/Sembiance/email-validator",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Sembiance/email-validator/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sembiance/email-validator.git"
+  },
+  "gitHead": "51baf1aef3a98f85aea9538f3b3e8d469920af1a",
+  "bugs": {
+    "url": "https://github.com/Sembiance/email-validator/issues"
+  },
+  "_id": "email-validator@1.0.3",
+  "scripts": {},
+  "_shasum": "e7e211124bfe5afc28023545ca4a7096565df26d",
+  "_from": "email-validator@>=1.0.2 <2.0.0",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "sembiance",
+    "email": "robert@cosmicrealms.com"
+  },
+  "maintainers": [
+    {
+      "name": "sembiance",
+      "email": "robert@cosmicrealms.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e7e211124bfe5afc28023545ca4a7096565df26d",
+    "tarball": "http://registry.npmjs.org/email-validator/-/email-validator-1.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/email-validator/-/email-validator-1.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}

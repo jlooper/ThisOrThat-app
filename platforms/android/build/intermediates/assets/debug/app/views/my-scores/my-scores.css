@@ -1,0 +1,9 @@
+#scoresList {
+	margin: 5;
+	opacity: 0;
+}
+Label {
+	margin: 10;
+	horizontal-align: left;
+	vertical-align: center;
+}

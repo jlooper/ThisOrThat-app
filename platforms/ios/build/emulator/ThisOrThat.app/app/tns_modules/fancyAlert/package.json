@@ -1,0 +1,17 @@
+{
+  "name": "fancyAlert",
+  "version": "1.0.0",
+  "description": "A pretty alert",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.3.0"
+    }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "fancyAlert@1.0.0",
+  "scripts": {},
+  "_shasum": "a58485f3dc589494735b0facdc9d5dd29e37e6ab",
+  "_from": "fancyAlert",
+  "_resolved": "file:fancyAlert"
+}

@@ -1,0 +1,19 @@
+Page{
+	background-color:#B3E5FC;
+}
+.card{
+	margin:20px;
+	background-color:#03A9F4;
+	border-radius:5;
+}
+.word{
+	padding:40px;
+	font-size:30;
+	color:white;
+}
+.button{
+	margin:15;
+	padding:15;
+	background-color:white;
+	border-radius:5;
+}

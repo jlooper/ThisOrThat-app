@@ -1,0 +1,46 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+
+	<Page.actionBar>
+		<ActionBar title="Game Over!">
+		</ActionBar>
+	</Page.actionBar>
+
+	<ScrollView>
+		
+		<StackLayout orientation="vertical">
+
+			<GridLayout columns="*" rows="auto,auto" class="btn4" horizontalAlignment="center" verticalAlignment="center" tap="restart">
+				<Label col="0" row="0" text="Try again!"  horizontalAlignment="center"/>
+				<Image col="0" row="1" src="res://restart" stretch="none" horizontalAlignment="center"/>
+			</GridLayout>
+
+			<GridLayout columns="*" rows="auto,auto" class="btn3" horizontalAlignment="center" verticalAlignment="center" tap="goHome">
+				<Label col="0" row="0" text="Pick a New Set!" horizontalAlignment="center"/>
+				<Image col="0" row="1" src="res://home" stretch="none" horizontalAlignment="center"/>
+			</GridLayout>
+
+			<GridLayout columns="*" rows="auto,auto" class="btn2" horizontalAlignment="center" verticalAlignment="center" tap="getMyScores">
+				<Label col="0" row="0" text="My Scores" horizontalAlignment="center"/>
+				<Image col="0" row="1" src="res://crown" stretch="none" horizontalAlignment="center"/>
+			</GridLayout>
+
+			<GridLayout columns="*" rows="auto,auto" class="btn1" horizontalAlignment="center" verticalAlignment="center" tap="getHighScores">
+				<Label col="0" row="0" text="High Scores" horizontalAlignment="center"/>
+				<Image col="0" row="1" src="res://trophy" stretch="none" horizontalAlignment="center"/>
+			</GridLayout>
+
+			<GridLayout columns="*" rows="auto,auto" class="btn" horizontalAlignment="center" verticalAlignment="center" tap="goToSettings">
+				<Label col="0" row="0" text="Settings" horizontalAlignment="center"/>
+				<Image col="0" row="1" src="res://settings" stretch="none" horizontalAlignment="center"/>
+			</GridLayout>
+
+			<GridLayout columns="*" rows="auto" class="btn" horizontalAlignment="center" verticalAlignment="center" tap="signOut">
+				<Label col="0" row="0" text="Sign Out" horizontalAlignment="center"/>
+			</GridLayout>
+
+
+		</StackLayout>
+	
+	</ScrollView>
+		
+</Page>

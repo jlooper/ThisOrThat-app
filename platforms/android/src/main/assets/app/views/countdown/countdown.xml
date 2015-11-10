@@ -1,0 +1,10 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" navigatedTo="pageNavigated">
+
+	<Page.actionBar>
+		<ActionBar title="Get Ready!">
+		</ActionBar>
+	</Page.actionBar>
+
+	<StackLayout id="gameLayout" orientation="horizontal" horizontalAlignment="center" verticalAlignment="center" minHeight="300"/>
+
+</Page>

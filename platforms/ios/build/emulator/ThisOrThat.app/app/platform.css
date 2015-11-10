@@ -1,0 +1,15 @@
+.button {
+	border-radius: 2;
+	background-color:#2A49A5;
+	color: white;	
+}
+TextField {
+	background-color: #FAFAFA;
+	border-width: 1;
+	border-style: solid;
+	border-color: #C7C7CC;
+	border-radius: 2;
+}
+.link {
+	border-width: 0;
+}

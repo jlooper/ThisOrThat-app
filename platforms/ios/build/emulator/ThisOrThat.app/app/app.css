@@ -1,0 +1,29 @@
+@import url('~/platform.css');
+
+Page {
+	background-color: white;
+}
+TextField {
+	margin: 10;
+	padding: 10;
+}
+.loginImg {
+	margin-top: 20;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 20;
+}
+Button {
+	margin: 10;
+	padding: 10;
+}
+.fbButton{
+	background-color:#2A49A5;
+	color:white;
+	font: 12px Verdana sans-serif;
+}
+.card{
+	margin:20px;
+	background-color:#03A9F4;
+	border-radius:5;
+}

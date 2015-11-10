@@ -1,0 +1,22 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+	
+	<Page.actionBar>
+		<ActionBar title="Let's Play">
+			<ActionBar.actionItems>
+				<ActionItem android.text="Home" tap="goHome" ios:icon="res://home" android:icon="res://home" ios.position="right" />
+			</ActionBar.actionItems>
+		</ActionBar>
+	</Page.actionBar>
+
+	<StackLayout dock="top" class="card">
+		
+		<Label id="word" text="{{ text }}" horizontalAlignment="center" class="word" textWrap="true"/>
+		<Label horizontalAlignment="center" class="word"/> 
+		<GridLayout columns="*,*" rows="auto" verticalAlignment="bottom">
+	    	<Image id="img1" row="0" col="0" class="button"/>
+        	<Image id="img2" row="0" col="1" class="button"/> 
+        </GridLayout>
+
+	</StackLayout>
+
+</Page>

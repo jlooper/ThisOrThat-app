@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ca23ec02b878e797ea98b9b0e58fd8d1268415e9.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.1.2/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e60e8c2940cad75d09a07e2f5b0196534a27b762.jar" />
+    </item>
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40373005d4576f2e18027bcb2460ba577ae3d4ea">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/nativescript-6abe70f9094e096f19a00da87005734ac2686135.jar" />
+    </item>
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/classes-58ed3bab0474b926a0bdab6f7fd8a12aa9e7407a.jar" />
+    </item>
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/widgets-ded360353412f78c35dfad297cf374c89eb0bfe1.jar" />
+    </item>
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/classes-21105d8747effef64f8ed6f661c787b8226c0fa1.jar" />
+    </item>
+    <item
+        jar="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/exploded-aar/facebook-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7152354c5c64f1f254cfd8f048535223175b5925">
+        <dex dex="/Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/build/intermediates/pre-dexed/debug/classes-36edf15e5dfb304e7541be22d007b58376ca5b9c.jar" />
+    </item>
+
+</items>

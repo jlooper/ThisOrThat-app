@@ -1,0 +1,19 @@
+<Page loaded="loaded">
+
+	<Page.actionBar>
+		<ActionBar title="High Scores">
+		</ActionBar>
+	</Page.actionBar>
+
+	<GridLayout>
+		<ListView items="{{ highScoresList }}">
+			<ListView.itemTemplate>
+				<GridLayout rows="auto" columns="auto, *">
+					<Label text="{{ score }}" />
+					<Label text="{{ username }}" col="1" />					
+				</GridLayout>
+			</ListView.itemTemplate>
+		</ListView>        
+    </GridLayout>
+
+</Page>

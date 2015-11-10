@@ -1,0 +1,15 @@
+use_frameworks!
+# Begin Podfile - /Users/Looper/Documents/NativeScript/ThisOrThat/node_modules/fancyAlert/platforms/ios/Podfile 
+ pod "YCTutorialBox" 
+ # End Podfile 
+# Begin Podfile - /Users/Looper/Documents/NativeScript/ThisOrThat/node_modules/nativescript-facebook-login/platforms/ios/Podfile 
+ pod 'FBSDKCoreKit', '~> 4.7'
+pod 'FBSDKLoginKit', '~> 4.7' 
+ # End Podfile 
+# Begin Podfile - /Users/Looper/Documents/NativeScript/ThisOrThat/node_modules/fancyAlert/platforms/ios/Podfile 
+ pod "YCTutorialBox" 
+ # End Podfile 
+# Begin Podfile - /Users/Looper/Documents/NativeScript/ThisOrThat/node_modules/nativescript-facebook-login/platforms/ios/Podfile 
+ pod 'FBSDKCoreKit', '~> 4.7'
+pod 'FBSDKLoginKit', '~> 4.7' 
+ # End Podfile 

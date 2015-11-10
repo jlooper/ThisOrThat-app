@@ -1,0 +1,16 @@
+<Page loaded="loaded">
+
+	<Page.actionBar>
+		<ActionBar title="My Scores">
+		</ActionBar>
+	</Page.actionBar>
+
+	<GridLayout>
+        <ListView items="{{ scoresList }}">
+            <ListView.itemTemplate>
+                <Label text="{{ score }}" horizontalAlignment="left" verticalAlignment="center"/>
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+
+</Page>

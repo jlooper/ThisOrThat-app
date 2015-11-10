@@ -1,0 +1,9 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded">
+	<Page.actionBar>
+		<ActionBar title="Pick a Language">			
+		</ActionBar>
+	</Page.actionBar>
+	<StackLayout class="card">
+		<ListPicker id="langPicker" items="{{ langList }}"/>		
+	</StackLayout>
+</Page>

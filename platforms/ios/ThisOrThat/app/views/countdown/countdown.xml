@@ -5,6 +5,6 @@
 		</ActionBar>
 	</Page.actionBar>
 
-	<GridLayout dock="top" id="gameLayout" columns="*" rows="*" class="card"/>
+	<StackLayout id="gameLayout" orientation="horizontal" horizontalAlignment="center" verticalAlignment="center" minHeight="300"/>
 
 </Page>

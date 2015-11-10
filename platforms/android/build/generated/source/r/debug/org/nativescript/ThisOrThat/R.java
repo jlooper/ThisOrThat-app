@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.ladeezfirstmedia.thisorthat;
+package org.nativescript.ThisOrThat;
 
 public final class R {
     public static final class anim {
@@ -2303,33 +2303,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.ladeezfirstmedia.thisorthat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.ladeezfirstmedia.thisorthat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.ladeezfirstmedia.thisorthat:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.ladeezfirstmedia.thisorthat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.ladeezfirstmedia.thisorthat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.ladeezfirstmedia.thisorthat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.ladeezfirstmedia.thisorthat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.ladeezfirstmedia.thisorthat:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.ladeezfirstmedia.thisorthat:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.ladeezfirstmedia.thisorthat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.ladeezfirstmedia.thisorthat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.ladeezfirstmedia.thisorthat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.ladeezfirstmedia.thisorthat:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.ladeezfirstmedia.thisorthat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.ladeezfirstmedia.thisorthat:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.ladeezfirstmedia.thisorthat:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.ladeezfirstmedia.thisorthat:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.ladeezfirstmedia.thisorthat:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.ladeezfirstmedia.thisorthat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.ladeezfirstmedia.thisorthat:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.ladeezfirstmedia.thisorthat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.ladeezfirstmedia.thisorthat:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.ladeezfirstmedia.thisorthat:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.ladeezfirstmedia.thisorthat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.ladeezfirstmedia.thisorthat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.ladeezfirstmedia.thisorthat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.ladeezfirstmedia.thisorthat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background org.nativescript.ThisOrThat:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit org.nativescript.ThisOrThat:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked org.nativescript.ThisOrThat:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd org.nativescript.ThisOrThat:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft org.nativescript.ThisOrThat:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight org.nativescript.ThisOrThat:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart org.nativescript.ThisOrThat:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout org.nativescript.ThisOrThat:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions org.nativescript.ThisOrThat:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider org.nativescript.ThisOrThat:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation org.nativescript.ThisOrThat:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height org.nativescript.ThisOrThat:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll org.nativescript.ThisOrThat:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator org.nativescript.ThisOrThat:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout org.nativescript.ThisOrThat:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon org.nativescript.ThisOrThat:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle org.nativescript.ThisOrThat:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding org.nativescript.ThisOrThat:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo org.nativescript.ThisOrThat:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode org.nativescript.ThisOrThat:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme org.nativescript.ThisOrThat:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding org.nativescript.ThisOrThat:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle org.nativescript.ThisOrThat:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle org.nativescript.ThisOrThat:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle org.nativescript.ThisOrThat:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title org.nativescript.ThisOrThat:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle org.nativescript.ThisOrThat:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2369,17 +2369,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f01007b
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#background}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:background
+          @attr name org.nativescript.ThisOrThat:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2387,11 +2387,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:backgroundSplit
+          @attr name org.nativescript.ThisOrThat:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2399,11 +2399,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:backgroundStacked
+          @attr name org.nativescript.ThisOrThat:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2415,11 +2415,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetEnd
+          @attr name org.nativescript.ThisOrThat:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2431,11 +2431,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetLeft
+          @attr name org.nativescript.ThisOrThat:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2447,11 +2447,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetRight
+          @attr name org.nativescript.ThisOrThat:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2463,21 +2463,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetStart
+          @attr name org.nativescript.ThisOrThat:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:customNavigationLayout
+          @attr name org.nativescript.ThisOrThat:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2495,21 +2495,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:displayOptions
+          @attr name org.nativescript.ThisOrThat:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:divider
+          @attr name org.nativescript.ThisOrThat:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2521,11 +2521,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:elevation
+          @attr name org.nativescript.ThisOrThat:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#height}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2537,11 +2537,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:height
+          @attr name org.nativescript.ThisOrThat:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2551,51 +2551,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:hideOnContentScroll
+          @attr name org.nativescript.ThisOrThat:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:homeAsUpIndicator
+          @attr name org.nativescript.ThisOrThat:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:homeLayout
+          @attr name org.nativescript.ThisOrThat:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#icon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:icon
+          @attr name org.nativescript.ThisOrThat:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:indeterminateProgressStyle
+          @attr name org.nativescript.ThisOrThat:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2607,21 +2607,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:itemPadding
+          @attr name org.nativescript.ThisOrThat:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:logo
+          @attr name org.nativescript.ThisOrThat:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2635,21 +2635,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:navigationMode
+          @attr name org.nativescript.ThisOrThat:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:popupTheme
+          @attr name org.nativescript.ThisOrThat:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2661,21 +2661,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:progressBarPadding
+          @attr name org.nativescript.ThisOrThat:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:progressBarStyle
+          @attr name org.nativescript.ThisOrThat:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2685,21 +2685,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:subtitle
+          @attr name org.nativescript.ThisOrThat:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:subtitleTextStyle
+          @attr name org.nativescript.ThisOrThat:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#title}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2709,17 +2709,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:title
+          @attr name org.nativescript.ThisOrThat:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:titleTextStyle
+          @attr name org.nativescript.ThisOrThat:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2771,12 +2771,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.ladeezfirstmedia.thisorthat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.ladeezfirstmedia.thisorthat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.ladeezfirstmedia.thisorthat:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.ladeezfirstmedia.thisorthat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.ladeezfirstmedia.thisorthat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.ladeezfirstmedia.thisorthat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background org.nativescript.ThisOrThat:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit org.nativescript.ThisOrThat:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout org.nativescript.ThisOrThat:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height org.nativescript.ThisOrThat:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle org.nativescript.ThisOrThat:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle org.nativescript.ThisOrThat:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2790,17 +2790,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#background}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:background
+          @attr name org.nativescript.ThisOrThat:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2808,21 +2808,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:backgroundSplit
+          @attr name org.nativescript.ThisOrThat:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:closeItemLayout
+          @attr name org.nativescript.ThisOrThat:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#height}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2834,27 +2834,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:height
+          @attr name org.nativescript.ThisOrThat:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:subtitleTextStyle
+          @attr name org.nativescript.ThisOrThat:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:titleTextStyle
+          @attr name org.nativescript.ThisOrThat:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2863,8 +2863,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.ladeezfirstmedia.thisorthat:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.ladeezfirstmedia.thisorthat:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable org.nativescript.ThisOrThat:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount org.nativescript.ThisOrThat:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2873,17 +2873,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:expandActivityOverflowButtonDrawable
+          @attr name org.nativescript.ThisOrThat:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2893,7 +2893,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:initialActivityCount
+          @attr name org.nativescript.ThisOrThat:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2903,11 +2903,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.ladeezfirstmedia.thisorthat:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.ladeezfirstmedia.thisorthat:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.ladeezfirstmedia.thisorthat:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.ladeezfirstmedia.thisorthat:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.ladeezfirstmedia.thisorthat:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout org.nativescript.ThisOrThat:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout org.nativescript.ThisOrThat:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout org.nativescript.ThisOrThat:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout org.nativescript.ThisOrThat:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout org.nativescript.ThisOrThat:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2927,53 +2927,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonPanelSideLayout
+          @attr name org.nativescript.ThisOrThat:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:listItemLayout
+          @attr name org.nativescript.ThisOrThat:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:listLayout
+          @attr name org.nativescript.ThisOrThat:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:multiChoiceItemLayout
+          @attr name org.nativescript.ThisOrThat:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:singleChoiceItemLayout
+          @attr name org.nativescript.ThisOrThat:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -2983,7 +2983,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.ladeezfirstmedia.thisorthat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps org.nativescript.ThisOrThat:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -2998,14 +2998,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAllCaps
+          @attr name org.nativescript.ThisOrThat:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3015,8 +3015,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.ladeezfirstmedia.thisorthat:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.ladeezfirstmedia.thisorthat:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint org.nativescript.ThisOrThat:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode org.nativescript.ThisOrThat:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3032,7 +3032,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3043,11 +3043,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:buttonTint
+          @attr name org.nativescript.ThisOrThat:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3063,7 +3063,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:buttonTintMode
+          @attr name org.nativescript.ThisOrThat:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3072,14 +3072,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.ladeezfirstmedia.thisorthat:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.ladeezfirstmedia.thisorthat:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.ladeezfirstmedia.thisorthat:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.ladeezfirstmedia.thisorthat:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.ladeezfirstmedia.thisorthat:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.ladeezfirstmedia.thisorthat:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.ladeezfirstmedia.thisorthat:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.ladeezfirstmedia.thisorthat:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength org.nativescript.ThisOrThat:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength org.nativescript.ThisOrThat:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength org.nativescript.ThisOrThat:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color org.nativescript.ThisOrThat:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize org.nativescript.ThisOrThat:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars org.nativescript.ThisOrThat:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars org.nativescript.ThisOrThat:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness org.nativescript.ThisOrThat:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3095,7 +3095,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3107,11 +3107,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:arrowHeadLength
+          @attr name org.nativescript.ThisOrThat:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3123,11 +3123,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:arrowShaftLength
+          @attr name org.nativescript.ThisOrThat:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#barLength}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3139,11 +3139,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:barLength
+          @attr name org.nativescript.ThisOrThat:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#color}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3154,11 +3154,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:color
+          @attr name org.nativescript.ThisOrThat:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3170,11 +3170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:drawableSize
+          @attr name org.nativescript.ThisOrThat:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3186,11 +3186,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:gapBetweenBars
+          @attr name org.nativescript.ThisOrThat:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3200,11 +3200,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:spinBars
+          @attr name org.nativescript.ThisOrThat:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#thickness}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3216,7 +3216,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:thickness
+          @attr name org.nativescript.ThisOrThat:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3230,10 +3230,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.ladeezfirstmedia.thisorthat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.ladeezfirstmedia.thisorthat:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.ladeezfirstmedia.thisorthat:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.ladeezfirstmedia.thisorthat:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider org.nativescript.ThisOrThat:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding org.nativescript.ThisOrThat:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild org.nativescript.ThisOrThat:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers org.nativescript.ThisOrThat:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3281,17 +3281,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:divider
+          @attr name org.nativescript.ThisOrThat:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3303,11 +3303,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:dividerPadding
+          @attr name org.nativescript.ThisOrThat:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3317,11 +3317,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:measureWithLargestChild
+          @attr name org.nativescript.ThisOrThat:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3336,7 +3336,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:showDividers
+          @attr name org.nativescript.ThisOrThat:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3475,9 +3475,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.ladeezfirstmedia.thisorthat:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.ladeezfirstmedia.thisorthat:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.ladeezfirstmedia.thisorthat:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout org.nativescript.ThisOrThat:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass org.nativescript.ThisOrThat:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass org.nativescript.ThisOrThat:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3491,7 +3491,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.ladeezfirstmedia.thisorthat:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction org.nativescript.ThisOrThat:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3519,17 +3519,17 @@ containing a value of this type.
             0x7f010035
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionLayout
+          @attr name org.nativescript.ThisOrThat:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3539,11 +3539,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:actionProviderClass
+          @attr name org.nativescript.ThisOrThat:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3553,7 +3553,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:actionViewClass
+          @attr name org.nativescript.ThisOrThat:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -3635,7 +3635,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3651,7 +3651,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:showAsAction
+          @attr name org.nativescript.ThisOrThat:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -3667,7 +3667,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.ladeezfirstmedia.thisorthat:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing org.nativescript.ThisOrThat:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -3725,7 +3725,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3735,7 +3735,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:preserveIconSpacing
+          @attr name org.nativescript.ThisOrThat:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -3745,7 +3745,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.ladeezfirstmedia.thisorthat:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor org.nativescript.ThisOrThat:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -3760,7 +3760,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3770,7 +3770,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:overlapAnchor
+          @attr name org.nativescript.ThisOrThat:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3779,7 +3779,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.ladeezfirstmedia.thisorthat:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor org.nativescript.ThisOrThat:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -3787,7 +3787,7 @@ containing a value of this type.
             0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3797,7 +3797,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:state_above_anchor
+          @attr name org.nativescript.ThisOrThat:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3810,19 +3810,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.ladeezfirstmedia.thisorthat:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.ladeezfirstmedia.thisorthat:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.ladeezfirstmedia.thisorthat:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.ladeezfirstmedia.thisorthat:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.ladeezfirstmedia.thisorthat:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.ladeezfirstmedia.thisorthat:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.ladeezfirstmedia.thisorthat:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.ladeezfirstmedia.thisorthat:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.ladeezfirstmedia.thisorthat:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.ladeezfirstmedia.thisorthat:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.ladeezfirstmedia.thisorthat:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.ladeezfirstmedia.thisorthat:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.ladeezfirstmedia.thisorthat:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon org.nativescript.ThisOrThat:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon org.nativescript.ThisOrThat:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint org.nativescript.ThisOrThat:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon org.nativescript.ThisOrThat:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault org.nativescript.ThisOrThat:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout org.nativescript.ThisOrThat:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground org.nativescript.ThisOrThat:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint org.nativescript.ThisOrThat:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon org.nativescript.ThisOrThat:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon org.nativescript.ThisOrThat:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground org.nativescript.ThisOrThat:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout org.nativescript.ThisOrThat:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon org.nativescript.ThisOrThat:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3874,27 +3874,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:closeIcon
+          @attr name org.nativescript.ThisOrThat:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:commitIcon
+          @attr name org.nativescript.ThisOrThat:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3904,21 +3904,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:defaultQueryHint
+          @attr name org.nativescript.ThisOrThat:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:goIcon
+          @attr name org.nativescript.ThisOrThat:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3928,31 +3928,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:iconifiedByDefault
+          @attr name org.nativescript.ThisOrThat:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#layout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:layout
+          @attr name org.nativescript.ThisOrThat:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:queryBackground
+          @attr name org.nativescript.ThisOrThat:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3962,57 +3962,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:queryHint
+          @attr name org.nativescript.ThisOrThat:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:searchHintIcon
+          @attr name org.nativescript.ThisOrThat:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:searchIcon
+          @attr name org.nativescript.ThisOrThat:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:submitBackground
+          @attr name org.nativescript.ThisOrThat:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:suggestionRowLayout
+          @attr name org.nativescript.ThisOrThat:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:voiceIcon
+          @attr name org.nativescript.ThisOrThat:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4024,7 +4024,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.ladeezfirstmedia.thisorthat:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme org.nativescript.ThisOrThat:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4053,13 +4053,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:popupTheme
+          @attr name org.nativescript.ThisOrThat:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4071,13 +4071,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.ladeezfirstmedia.thisorthat:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.ladeezfirstmedia.thisorthat:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.ladeezfirstmedia.thisorthat:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.ladeezfirstmedia.thisorthat:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.ladeezfirstmedia.thisorthat:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.ladeezfirstmedia.thisorthat:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.ladeezfirstmedia.thisorthat:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText org.nativescript.ThisOrThat:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack org.nativescript.ThisOrThat:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth org.nativescript.ThisOrThat:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding org.nativescript.ThisOrThat:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance org.nativescript.ThisOrThat:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding org.nativescript.ThisOrThat:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track org.nativescript.ThisOrThat:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4114,7 +4114,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#showText}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4124,11 +4124,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:showText
+          @attr name org.nativescript.ThisOrThat:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4138,11 +4138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:splitTrack
+          @attr name org.nativescript.ThisOrThat:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4154,11 +4154,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:switchMinWidth
+          @attr name org.nativescript.ThisOrThat:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4170,21 +4170,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:switchPadding
+          @attr name org.nativescript.ThisOrThat:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:switchTextAppearance
+          @attr name org.nativescript.ThisOrThat:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4196,17 +4196,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:thumbTextPadding
+          @attr name org.nativescript.ThisOrThat:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#track}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:track
+          @attr name org.nativescript.ThisOrThat:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4219,7 +4219,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.ladeezfirstmedia.thisorthat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps org.nativescript.ThisOrThat:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4256,14 +4256,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAllCaps
+          @attr name org.nativescript.ThisOrThat:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -4272,114 +4272,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.ladeezfirstmedia.thisorthat:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.ladeezfirstmedia.thisorthat:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.ladeezfirstmedia.thisorthat:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.ladeezfirstmedia.thisorthat:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.ladeezfirstmedia.thisorthat:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.ladeezfirstmedia.thisorthat:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.ladeezfirstmedia.thisorthat:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.ladeezfirstmedia.thisorthat:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.ladeezfirstmedia.thisorthat:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.ladeezfirstmedia.thisorthat:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.ladeezfirstmedia.thisorthat:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.ladeezfirstmedia.thisorthat:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.ladeezfirstmedia.thisorthat:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.ladeezfirstmedia.thisorthat:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.ladeezfirstmedia.thisorthat:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.ladeezfirstmedia.thisorthat:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.ladeezfirstmedia.thisorthat:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.ladeezfirstmedia.thisorthat:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.ladeezfirstmedia.thisorthat:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.ladeezfirstmedia.thisorthat:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.ladeezfirstmedia.thisorthat:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.ladeezfirstmedia.thisorthat:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.ladeezfirstmedia.thisorthat:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.ladeezfirstmedia.thisorthat:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.ladeezfirstmedia.thisorthat:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.ladeezfirstmedia.thisorthat:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.ladeezfirstmedia.thisorthat:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.ladeezfirstmedia.thisorthat:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.ladeezfirstmedia.thisorthat:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.ladeezfirstmedia.thisorthat:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.ladeezfirstmedia.thisorthat:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.ladeezfirstmedia.thisorthat:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.ladeezfirstmedia.thisorthat:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.ladeezfirstmedia.thisorthat:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.ladeezfirstmedia.thisorthat:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider org.nativescript.ThisOrThat:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground org.nativescript.ThisOrThat:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme org.nativescript.ThisOrThat:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize org.nativescript.ThisOrThat:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle org.nativescript.ThisOrThat:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle org.nativescript.ThisOrThat:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle org.nativescript.ThisOrThat:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle org.nativescript.ThisOrThat:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle org.nativescript.ThisOrThat:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme org.nativescript.ThisOrThat:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme org.nativescript.ThisOrThat:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle org.nativescript.ThisOrThat:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle org.nativescript.ThisOrThat:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance org.nativescript.ThisOrThat:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor org.nativescript.ThisOrThat:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground org.nativescript.ThisOrThat:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle org.nativescript.ThisOrThat:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable org.nativescript.ThisOrThat:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable org.nativescript.ThisOrThat:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable org.nativescript.ThisOrThat:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable org.nativescript.ThisOrThat:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable org.nativescript.ThisOrThat:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle org.nativescript.ThisOrThat:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable org.nativescript.ThisOrThat:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable org.nativescript.ThisOrThat:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground org.nativescript.ThisOrThat:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle org.nativescript.ThisOrThat:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable org.nativescript.ThisOrThat:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle org.nativescript.ThisOrThat:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle org.nativescript.ThisOrThat:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle org.nativescript.ThisOrThat:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle org.nativescript.ThisOrThat:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons org.nativescript.ThisOrThat:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle org.nativescript.ThisOrThat:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme org.nativescript.ThisOrThat:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.ladeezfirstmedia.thisorthat:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.ladeezfirstmedia.thisorthat:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.ladeezfirstmedia.thisorthat:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.ladeezfirstmedia.thisorthat:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.ladeezfirstmedia.thisorthat:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.ladeezfirstmedia.thisorthat:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.ladeezfirstmedia.thisorthat:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.ladeezfirstmedia.thisorthat:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.ladeezfirstmedia.thisorthat:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.ladeezfirstmedia.thisorthat:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.ladeezfirstmedia.thisorthat:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.ladeezfirstmedia.thisorthat:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.ladeezfirstmedia.thisorthat:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.ladeezfirstmedia.thisorthat:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.ladeezfirstmedia.thisorthat:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.ladeezfirstmedia.thisorthat:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.ladeezfirstmedia.thisorthat:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.ladeezfirstmedia.thisorthat:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.ladeezfirstmedia.thisorthat:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.ladeezfirstmedia.thisorthat:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.ladeezfirstmedia.thisorthat:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.ladeezfirstmedia.thisorthat:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.ladeezfirstmedia.thisorthat:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.ladeezfirstmedia.thisorthat:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.ladeezfirstmedia.thisorthat:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.ladeezfirstmedia.thisorthat:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.ladeezfirstmedia.thisorthat:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.ladeezfirstmedia.thisorthat:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.ladeezfirstmedia.thisorthat:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.ladeezfirstmedia.thisorthat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.ladeezfirstmedia.thisorthat:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.ladeezfirstmedia.thisorthat:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.ladeezfirstmedia.thisorthat:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.ladeezfirstmedia.thisorthat:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.ladeezfirstmedia.thisorthat:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.ladeezfirstmedia.thisorthat:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.ladeezfirstmedia.thisorthat:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.ladeezfirstmedia.thisorthat:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.ladeezfirstmedia.thisorthat:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.ladeezfirstmedia.thisorthat:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.ladeezfirstmedia.thisorthat:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.ladeezfirstmedia.thisorthat:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.ladeezfirstmedia.thisorthat:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.ladeezfirstmedia.thisorthat:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.ladeezfirstmedia.thisorthat:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.ladeezfirstmedia.thisorthat:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.ladeezfirstmedia.thisorthat:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.ladeezfirstmedia.thisorthat:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.ladeezfirstmedia.thisorthat:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.ladeezfirstmedia.thisorthat:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.ladeezfirstmedia.thisorthat:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.ladeezfirstmedia.thisorthat:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.ladeezfirstmedia.thisorthat:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.ladeezfirstmedia.thisorthat:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.ladeezfirstmedia.thisorthat:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.ladeezfirstmedia.thisorthat:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.ladeezfirstmedia.thisorthat:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.ladeezfirstmedia.thisorthat:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.ladeezfirstmedia.thisorthat:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.ladeezfirstmedia.thisorthat:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.ladeezfirstmedia.thisorthat:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.ladeezfirstmedia.thisorthat:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.ladeezfirstmedia.thisorthat:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.ladeezfirstmedia.thisorthat:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.ladeezfirstmedia.thisorthat:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.ladeezfirstmedia.thisorthat:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.ladeezfirstmedia.thisorthat:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.ladeezfirstmedia.thisorthat:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.ladeezfirstmedia.thisorthat:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.ladeezfirstmedia.thisorthat:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.ladeezfirstmedia.thisorthat:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle org.nativescript.ThisOrThat:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle org.nativescript.ThisOrThat:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle org.nativescript.ThisOrThat:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle org.nativescript.ThisOrThat:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle org.nativescript.ThisOrThat:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle org.nativescript.ThisOrThat:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle org.nativescript.ThisOrThat:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle org.nativescript.ThisOrThat:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall org.nativescript.ThisOrThat:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle org.nativescript.ThisOrThat:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle org.nativescript.ThisOrThat:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent org.nativescript.ThisOrThat:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal org.nativescript.ThisOrThat:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated org.nativescript.ThisOrThat:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight org.nativescript.ThisOrThat:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal org.nativescript.ThisOrThat:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary org.nativescript.ThisOrThat:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark org.nativescript.ThisOrThat:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal org.nativescript.ThisOrThat:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground org.nativescript.ThisOrThat:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding org.nativescript.ThisOrThat:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme org.nativescript.ThisOrThat:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal org.nativescript.ThisOrThat:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical org.nativescript.ThisOrThat:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle org.nativescript.ThisOrThat:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight org.nativescript.ThisOrThat:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground org.nativescript.ThisOrThat:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor org.nativescript.ThisOrThat:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle org.nativescript.ThisOrThat:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator org.nativescript.ThisOrThat:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator org.nativescript.ThisOrThat:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog org.nativescript.ThisOrThat:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle org.nativescript.ThisOrThat:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight org.nativescript.ThisOrThat:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge org.nativescript.ThisOrThat:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall org.nativescript.ThisOrThat:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft org.nativescript.ThisOrThat:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight org.nativescript.ThisOrThat:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground org.nativescript.ThisOrThat:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme org.nativescript.ThisOrThat:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth org.nativescript.ThisOrThat:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle org.nativescript.ThisOrThat:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle org.nativescript.ThisOrThat:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle org.nativescript.ThisOrThat:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle org.nativescript.ThisOrThat:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle org.nativescript.ThisOrThat:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground org.nativescript.ThisOrThat:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless org.nativescript.ThisOrThat:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle org.nativescript.ThisOrThat:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle org.nativescript.ThisOrThat:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle org.nativescript.ThisOrThat:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu org.nativescript.ThisOrThat:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem org.nativescript.ThisOrThat:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall org.nativescript.ThisOrThat:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle org.nativescript.ThisOrThat:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle org.nativescript.ThisOrThat:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu org.nativescript.ThisOrThat:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem org.nativescript.ThisOrThat:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl org.nativescript.ThisOrThat:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle org.nativescript.ThisOrThat:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle org.nativescript.ThisOrThat:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar org.nativescript.ThisOrThat:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay org.nativescript.ThisOrThat:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay org.nativescript.ThisOrThat:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor org.nativescript.ThisOrThat:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor org.nativescript.ThisOrThat:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor org.nativescript.ThisOrThat:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor org.nativescript.ThisOrThat:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor org.nativescript.ThisOrThat:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor org.nativescript.ThisOrThat:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle org.nativescript.ThisOrThat:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -4520,37 +4520,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b3, 0x7f0100b4, 0x7f0100b5, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarDivider
+          @attr name org.nativescript.ThisOrThat:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarItemBackground
+          @attr name org.nativescript.ThisOrThat:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarPopupTheme
+          @attr name org.nativescript.ThisOrThat:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4570,111 +4570,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarSize
+          @attr name org.nativescript.ThisOrThat:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarSplitStyle
+          @attr name org.nativescript.ThisOrThat:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarStyle
+          @attr name org.nativescript.ThisOrThat:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarTabBarStyle
+          @attr name org.nativescript.ThisOrThat:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarTabStyle
+          @attr name org.nativescript.ThisOrThat:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarTabTextStyle
+          @attr name org.nativescript.ThisOrThat:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarTheme
+          @attr name org.nativescript.ThisOrThat:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionBarWidgetTheme
+          @attr name org.nativescript.ThisOrThat:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionButtonStyle
+          @attr name org.nativescript.ThisOrThat:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionDropDownStyle
+          @attr name org.nativescript.ThisOrThat:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionMenuTextAppearance
+          @attr name org.nativescript.ThisOrThat:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4682,181 +4682,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionMenuTextColor
+          @attr name org.nativescript.ThisOrThat:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeBackground
+          @attr name org.nativescript.ThisOrThat:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeCloseButtonStyle
+          @attr name org.nativescript.ThisOrThat:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeCloseDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeCopyDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeCutDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeFindDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModePasteDrawable
+          @attr name org.nativescript.ThisOrThat:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModePopupWindowStyle
+          @attr name org.nativescript.ThisOrThat:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeSelectAllDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeShareDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeSplitBackground
+          @attr name org.nativescript.ThisOrThat:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeStyle
+          @attr name org.nativescript.ThisOrThat:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionModeWebSearchDrawable
+          @attr name org.nativescript.ThisOrThat:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionOverflowButtonStyle
+          @attr name org.nativescript.ThisOrThat:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:actionOverflowMenuStyle
+          @attr name org.nativescript.ThisOrThat:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:activityChooserViewStyle
+          @attr name org.nativescript.ThisOrThat:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:alertDialogButtonGroupStyle
+          @attr name org.nativescript.ThisOrThat:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4866,27 +4866,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:alertDialogCenterButtons
+          @attr name org.nativescript.ThisOrThat:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:alertDialogStyle
+          @attr name org.nativescript.ThisOrThat:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:alertDialogTheme
+          @attr name org.nativescript.ThisOrThat:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 93;
         /**
@@ -4902,117 +4902,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:autoCompleteTextViewStyle
+          @attr name org.nativescript.ThisOrThat:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:borderlessButtonStyle
+          @attr name org.nativescript.ThisOrThat:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonBarButtonStyle
+          @attr name org.nativescript.ThisOrThat:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonBarNegativeButtonStyle
+          @attr name org.nativescript.ThisOrThat:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonBarNeutralButtonStyle
+          @attr name org.nativescript.ThisOrThat:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonBarPositiveButtonStyle
+          @attr name org.nativescript.ThisOrThat:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonBarStyle
+          @attr name org.nativescript.ThisOrThat:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonStyle
+          @attr name org.nativescript.ThisOrThat:buttonStyle
         */
         public static final int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:buttonStyleSmall
+          @attr name org.nativescript.ThisOrThat:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:checkboxStyle
+          @attr name org.nativescript.ThisOrThat:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:checkedTextViewStyle
+          @attr name org.nativescript.ThisOrThat:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5023,11 +5023,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorAccent
+          @attr name org.nativescript.ThisOrThat:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5038,11 +5038,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorButtonNormal
+          @attr name org.nativescript.ThisOrThat:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5053,11 +5053,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorControlActivated
+          @attr name org.nativescript.ThisOrThat:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5068,11 +5068,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorControlHighlight
+          @attr name org.nativescript.ThisOrThat:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5083,11 +5083,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorControlNormal
+          @attr name org.nativescript.ThisOrThat:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5098,11 +5098,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorPrimary
+          @attr name org.nativescript.ThisOrThat:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5113,11 +5113,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorPrimaryDark
+          @attr name org.nativescript.ThisOrThat:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5128,21 +5128,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:colorSwitchThumbNormal
+          @attr name org.nativescript.ThisOrThat:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:controlBackground
+          @attr name org.nativescript.ThisOrThat:controlBackground
         */
         public static final int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5154,51 +5154,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:dialogPreferredPadding
+          @attr name org.nativescript.ThisOrThat:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:dialogTheme
+          @attr name org.nativescript.ThisOrThat:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:dividerHorizontal
+          @attr name org.nativescript.ThisOrThat:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:dividerVertical
+          @attr name org.nativescript.ThisOrThat:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:dropDownListViewStyle
+          @attr name org.nativescript.ThisOrThat:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5210,21 +5210,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:dropdownListPreferredItemHeight
+          @attr name org.nativescript.ThisOrThat:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:editTextBackground
+          @attr name org.nativescript.ThisOrThat:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5232,61 +5232,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:editTextColor
+          @attr name org.nativescript.ThisOrThat:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:editTextStyle
+          @attr name org.nativescript.ThisOrThat:editTextStyle
         */
         public static final int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:homeAsUpIndicator
+          @attr name org.nativescript.ThisOrThat:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:listChoiceBackgroundIndicator
+          @attr name org.nativescript.ThisOrThat:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:listDividerAlertDialog
+          @attr name org.nativescript.ThisOrThat:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:listPopupWindowStyle
+          @attr name org.nativescript.ThisOrThat:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5298,11 +5298,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:listPreferredItemHeight
+          @attr name org.nativescript.ThisOrThat:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5314,11 +5314,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:listPreferredItemHeightLarge
+          @attr name org.nativescript.ThisOrThat:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5330,11 +5330,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:listPreferredItemHeightSmall
+          @attr name org.nativescript.ThisOrThat:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5346,11 +5346,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:listPreferredItemPaddingLeft
+          @attr name org.nativescript.ThisOrThat:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5362,31 +5362,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:listPreferredItemPaddingRight
+          @attr name org.nativescript.ThisOrThat:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:panelBackground
+          @attr name org.nativescript.ThisOrThat:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:panelMenuListTheme
+          @attr name org.nativescript.ThisOrThat:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5398,171 +5398,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:panelMenuListWidth
+          @attr name org.nativescript.ThisOrThat:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:popupMenuStyle
+          @attr name org.nativescript.ThisOrThat:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:popupWindowStyle
+          @attr name org.nativescript.ThisOrThat:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:radioButtonStyle
+          @attr name org.nativescript.ThisOrThat:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:ratingBarStyle
+          @attr name org.nativescript.ThisOrThat:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:searchViewStyle
+          @attr name org.nativescript.ThisOrThat:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:selectableItemBackground
+          @attr name org.nativescript.ThisOrThat:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:selectableItemBackgroundBorderless
+          @attr name org.nativescript.ThisOrThat:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:spinnerDropDownItemStyle
+          @attr name org.nativescript.ThisOrThat:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:spinnerStyle
+          @attr name org.nativescript.ThisOrThat:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:switchStyle
+          @attr name org.nativescript.ThisOrThat:switchStyle
         */
         public static final int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceLargePopupMenu
+          @attr name org.nativescript.ThisOrThat:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceListItem
+          @attr name org.nativescript.ThisOrThat:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceListItemSmall
+          @attr name org.nativescript.ThisOrThat:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceSearchResultSubtitle
+          @attr name org.nativescript.ThisOrThat:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceSearchResultTitle
+          @attr name org.nativescript.ThisOrThat:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textAppearanceSmallPopupMenu
+          @attr name org.nativescript.ThisOrThat:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5570,11 +5570,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textColorAlertDialogListItem
+          @attr name org.nativescript.ThisOrThat:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5582,31 +5582,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:textColorSearchUrl
+          @attr name org.nativescript.ThisOrThat:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:toolbarNavigationButtonStyle
+          @attr name org.nativescript.ThisOrThat:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:toolbarStyle
+          @attr name org.nativescript.ThisOrThat:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5616,11 +5616,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowActionBar
+          @attr name org.nativescript.ThisOrThat:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5630,11 +5630,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowActionBarOverlay
+          @attr name org.nativescript.ThisOrThat:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5644,11 +5644,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowActionModeOverlay
+          @attr name org.nativescript.ThisOrThat:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5663,11 +5663,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowFixedHeightMajor
+          @attr name org.nativescript.ThisOrThat:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5682,11 +5682,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowFixedHeightMinor
+          @attr name org.nativescript.ThisOrThat:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5701,11 +5701,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowFixedWidthMajor
+          @attr name org.nativescript.ThisOrThat:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5720,11 +5720,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowFixedWidthMinor
+          @attr name org.nativescript.ThisOrThat:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5739,11 +5739,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowMinWidthMajor
+          @attr name org.nativescript.ThisOrThat:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5758,11 +5758,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowMinWidthMinor
+          @attr name org.nativescript.ThisOrThat:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5772,7 +5772,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:windowNoTitle
+          @attr name org.nativescript.ThisOrThat:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -5783,29 +5783,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.ladeezfirstmedia.thisorthat:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.ladeezfirstmedia.thisorthat:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.ladeezfirstmedia.thisorthat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.ladeezfirstmedia.thisorthat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.ladeezfirstmedia.thisorthat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.ladeezfirstmedia.thisorthat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.ladeezfirstmedia.thisorthat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.ladeezfirstmedia.thisorthat:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.ladeezfirstmedia.thisorthat:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.ladeezfirstmedia.thisorthat:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.ladeezfirstmedia.thisorthat:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.ladeezfirstmedia.thisorthat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.ladeezfirstmedia.thisorthat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.ladeezfirstmedia.thisorthat:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.ladeezfirstmedia.thisorthat:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.ladeezfirstmedia.thisorthat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.ladeezfirstmedia.thisorthat:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.ladeezfirstmedia.thisorthat:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.ladeezfirstmedia.thisorthat:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.ladeezfirstmedia.thisorthat:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.ladeezfirstmedia.thisorthat:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.ladeezfirstmedia.thisorthat:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.ladeezfirstmedia.thisorthat:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription org.nativescript.ThisOrThat:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon org.nativescript.ThisOrThat:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd org.nativescript.ThisOrThat:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft org.nativescript.ThisOrThat:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight org.nativescript.ThisOrThat:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart org.nativescript.ThisOrThat:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo org.nativescript.ThisOrThat:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription org.nativescript.ThisOrThat:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight org.nativescript.ThisOrThat:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription org.nativescript.ThisOrThat:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon org.nativescript.ThisOrThat:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme org.nativescript.ThisOrThat:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle org.nativescript.ThisOrThat:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance org.nativescript.ThisOrThat:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor org.nativescript.ThisOrThat:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title org.nativescript.ThisOrThat:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom org.nativescript.ThisOrThat:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd org.nativescript.ThisOrThat:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart org.nativescript.ThisOrThat:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop org.nativescript.ThisOrThat:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins org.nativescript.ThisOrThat:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance org.nativescript.ThisOrThat:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor org.nativescript.ThisOrThat:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -5855,7 +5855,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5865,21 +5865,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:collapseContentDescription
+          @attr name org.nativescript.ThisOrThat:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:collapseIcon
+          @attr name org.nativescript.ThisOrThat:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5891,11 +5891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetEnd
+          @attr name org.nativescript.ThisOrThat:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5907,11 +5907,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetLeft
+          @attr name org.nativescript.ThisOrThat:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5923,11 +5923,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetRight
+          @attr name org.nativescript.ThisOrThat:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5939,21 +5939,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:contentInsetStart
+          @attr name org.nativescript.ThisOrThat:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:logo
+          @attr name org.nativescript.ThisOrThat:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5963,11 +5963,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:logoDescription
+          @attr name org.nativescript.ThisOrThat:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5979,11 +5979,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:maxButtonHeight
+          @attr name org.nativescript.ThisOrThat:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5993,31 +5993,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:navigationContentDescription
+          @attr name org.nativescript.ThisOrThat:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:navigationIcon
+          @attr name org.nativescript.ThisOrThat:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:popupTheme
+          @attr name org.nativescript.ThisOrThat:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6027,21 +6027,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:subtitle
+          @attr name org.nativescript.ThisOrThat:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:subtitleTextAppearance
+          @attr name org.nativescript.ThisOrThat:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6052,11 +6052,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:subtitleTextColor
+          @attr name org.nativescript.ThisOrThat:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#title}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6066,11 +6066,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:title
+          @attr name org.nativescript.ThisOrThat:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6082,11 +6082,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleMarginBottom
+          @attr name org.nativescript.ThisOrThat:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6098,11 +6098,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleMarginEnd
+          @attr name org.nativescript.ThisOrThat:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6114,11 +6114,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleMarginStart
+          @attr name org.nativescript.ThisOrThat:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6130,11 +6130,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleMarginTop
+          @attr name org.nativescript.ThisOrThat:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6146,21 +6146,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleMargins
+          @attr name org.nativescript.ThisOrThat:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:titleTextAppearance
+          @attr name org.nativescript.ThisOrThat:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6171,7 +6171,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:titleTextColor
+          @attr name org.nativescript.ThisOrThat:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6182,9 +6182,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.ladeezfirstmedia.thisorthat:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.ladeezfirstmedia.thisorthat:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.ladeezfirstmedia.thisorthat:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd org.nativescript.ThisOrThat:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart org.nativescript.ThisOrThat:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme org.nativescript.ThisOrThat:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6209,7 +6209,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6221,11 +6221,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:paddingEnd
+          @attr name org.nativescript.ThisOrThat:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6237,17 +6237,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:paddingStart
+          @attr name org.nativescript.ThisOrThat:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#theme}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ladeezfirstmedia.thisorthat:theme
+          @attr name org.nativescript.ThisOrThat:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6257,8 +6257,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.ladeezfirstmedia.thisorthat:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.ladeezfirstmedia.thisorthat:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint org.nativescript.ThisOrThat:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode org.nativescript.ThisOrThat:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6274,7 +6274,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6285,11 +6285,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:backgroundTint
+          @attr name org.nativescript.ThisOrThat:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6305,7 +6305,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:backgroundTintMode
+          @attr name org.nativescript.ThisOrThat:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -6349,12 +6349,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.ladeezfirstmedia.thisorthat:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.ladeezfirstmedia.thisorthat:com_facebook_foreground_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.ladeezfirstmedia.thisorthat:com_facebook_horizontal_alignment}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.ladeezfirstmedia.thisorthat:com_facebook_object_id}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.ladeezfirstmedia.thisorthat:com_facebook_object_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.ladeezfirstmedia.thisorthat:com_facebook_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position org.nativescript.ThisOrThat:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color org.nativescript.ThisOrThat:com_facebook_foreground_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment org.nativescript.ThisOrThat:com_facebook_horizontal_alignment}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id org.nativescript.ThisOrThat:com_facebook_object_id}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type org.nativescript.ThisOrThat:com_facebook_object_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style org.nativescript.ThisOrThat:com_facebook_style}</code></td><td></td></tr>
            </table>
            @see #com_facebook_like_view_com_facebook_auxiliary_view_position
            @see #com_facebook_like_view_com_facebook_foreground_color
@@ -6368,7 +6368,7 @@ containing a value of this type.
             0x7f0100cf, 0x7f0100d0
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_auxiliary_view_position}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_auxiliary_view_position}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6382,11 +6382,11 @@ containing a value of this type.
 <tr><td><code>inline</code></td><td>1</td><td></td></tr>
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_auxiliary_view_position
+          @attr name org.nativescript.ThisOrThat:com_facebook_auxiliary_view_position
         */
         public static final int com_facebook_like_view_com_facebook_auxiliary_view_position = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_foreground_color}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_foreground_color}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6397,11 +6397,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_foreground_color
+          @attr name org.nativescript.ThisOrThat:com_facebook_foreground_color
         */
         public static final int com_facebook_like_view_com_facebook_foreground_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_horizontal_alignment}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_horizontal_alignment}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6415,11 +6415,11 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>1</td><td></td></tr>
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_horizontal_alignment
+          @attr name org.nativescript.ThisOrThat:com_facebook_horizontal_alignment
         */
         public static final int com_facebook_like_view_com_facebook_horizontal_alignment = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_object_id}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_object_id}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6429,11 +6429,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_object_id
+          @attr name org.nativescript.ThisOrThat:com_facebook_object_id
         */
         public static final int com_facebook_like_view_com_facebook_object_id = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_object_type}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_object_type}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6447,11 +6447,11 @@ containing a value of this type.
 <tr><td><code>open_graph</code></td><td>1</td><td></td></tr>
 <tr><td><code>page</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_object_type
+          @attr name org.nativescript.ThisOrThat:com_facebook_object_type
         */
         public static final int com_facebook_like_view_com_facebook_object_type = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_style}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_style}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -6465,7 +6465,7 @@ containing a value of this type.
 <tr><td><code>button</code></td><td>1</td><td></td></tr>
 <tr><td><code>box_count</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_style
+          @attr name org.nativescript.ThisOrThat:com_facebook_style
         */
         public static final int com_facebook_like_view_com_facebook_style = 3;
         /** Attributes that can be used with a com_facebook_login_view.
@@ -6474,10 +6474,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.ladeezfirstmedia.thisorthat:com_facebook_confirm_logout}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.ladeezfirstmedia.thisorthat:com_facebook_login_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.ladeezfirstmedia.thisorthat:com_facebook_logout_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.ladeezfirstmedia.thisorthat:com_facebook_tooltip_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout org.nativescript.ThisOrThat:com_facebook_confirm_logout}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text org.nativescript.ThisOrThat:com_facebook_login_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text org.nativescript.ThisOrThat:com_facebook_logout_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode org.nativescript.ThisOrThat:com_facebook_tooltip_mode}</code></td><td></td></tr>
            </table>
            @see #com_facebook_login_view_com_facebook_confirm_logout
            @see #com_facebook_login_view_com_facebook_login_text
@@ -6488,7 +6488,7 @@ containing a value of this type.
             0x7f0100d1, 0x7f0100d2, 0x7f0100d3, 0x7f0100d4
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_confirm_logout}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_confirm_logout}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -6498,11 +6498,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_confirm_logout
+          @attr name org.nativescript.ThisOrThat:com_facebook_confirm_logout
         */
         public static final int com_facebook_login_view_com_facebook_confirm_logout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_login_text}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_login_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -6512,11 +6512,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_login_text
+          @attr name org.nativescript.ThisOrThat:com_facebook_login_text
         */
         public static final int com_facebook_login_view_com_facebook_login_text = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_logout_text}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_logout_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -6526,11 +6526,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_logout_text
+          @attr name org.nativescript.ThisOrThat:com_facebook_logout_text
         */
         public static final int com_facebook_login_view_com_facebook_logout_text = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_tooltip_mode}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_tooltip_mode}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -6544,7 +6544,7 @@ containing a value of this type.
 <tr><td><code>display_always</code></td><td>1</td><td></td></tr>
 <tr><td><code>never_display</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_tooltip_mode
+          @attr name org.nativescript.ThisOrThat:com_facebook_tooltip_mode
         */
         public static final int com_facebook_login_view_com_facebook_tooltip_mode = 3;
         /** Attributes that can be used with a com_facebook_profile_picture_view.
@@ -6553,8 +6553,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.ladeezfirstmedia.thisorthat:com_facebook_is_cropped}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.ladeezfirstmedia.thisorthat:com_facebook_preset_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped org.nativescript.ThisOrThat:com_facebook_is_cropped}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size org.nativescript.ThisOrThat:com_facebook_preset_size}</code></td><td></td></tr>
            </table>
            @see #com_facebook_profile_picture_view_com_facebook_is_cropped
            @see #com_facebook_profile_picture_view_com_facebook_preset_size
@@ -6563,7 +6563,7 @@ containing a value of this type.
             0x7f0100d5, 0x7f0100d6
         };
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_is_cropped}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_is_cropped}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -6573,11 +6573,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_is_cropped
+          @attr name org.nativescript.ThisOrThat:com_facebook_is_cropped
         */
         public static final int com_facebook_profile_picture_view_com_facebook_is_cropped = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ladeezfirstmedia.thisorthat.R.attr#com_facebook_preset_size}
+          <p>This symbol is the offset where the {@link org.nativescript.ThisOrThat.R.attr#com_facebook_preset_size}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -6591,7 +6591,7 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>-3</td><td></td></tr>
 <tr><td><code>large</code></td><td>-4</td><td></td></tr>
 </table>
-          @attr name com.ladeezfirstmedia.thisorthat:com_facebook_preset_size
+          @attr name org.nativescript.ThisOrThat:com_facebook_preset_size
         */
         public static final int com_facebook_profile_picture_view_com_facebook_preset_size = 0;
     };

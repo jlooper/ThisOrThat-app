@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/src/main/AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/src/main/AndroidManifest.xml:3:5-46
+		ADDED from /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/src/main/AndroidManifest.xml:3:5-42
 	android:versionName
 		ADDED from /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/android/src/main/AndroidManifest.xml:5:5-30
 	android:versionCode

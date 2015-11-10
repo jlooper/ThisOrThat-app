@@ -53,6 +53,9 @@
 		E5CA63C4B81944C7A0A7BAF0 /* Default@4x.png in Resources */ = {isa = PBXBuildFile; fileRef = DE7B90252A3F4C69842A2D22 /* Default@4x.png */; };
 		E79D178ED4154D5D92F72136 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = 08E5F6F9024A484A9CB43310 /* Default-Landscape.png */; };
 		EFF29CDD4ECE4653A3761D46 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EB93FE90394921B9538AC4 /* Default@2x.png */; };
+		904ACC969BAE4F91B86C1815 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3560D4D06F49EBB93992E5 /* logo.png */; };
+		E50A9573A5C849BC9C6A61E5 /* logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0945C703CDB44A378858A2C2 /* logo@2x.png */; };
+		8FA57123D8BA42B8A57E62B3 /* logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 610044C15FB541718E7A5930 /* logo@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -124,6 +127,9 @@
 		EB18380530454BCAB23BE58E /* settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "settings@2x.png"; path = "ThisOrThat/Resources/settings@2x.png"; sourceTree = "<group>"; };
 		F9B8C6A31ACEDEEB00547416 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		FDCB5286737746ADA5121940 /* crown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = crown.png; path = ThisOrThat/Resources/crown.png; sourceTree = "<group>"; };
+		5C3560D4D06F49EBB93992E5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = "ThisOrThat/Resources/logo.png"; sourceTree = "<group>"; };
+		0945C703CDB44A378858A2C2 /* logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@2x.png"; path = "ThisOrThat/Resources/logo@2x.png"; sourceTree = "<group>"; };
+		610044C15FB541718E7A5930 /* logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@3x.png"; path = "ThisOrThat/Resources/logo@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +249,9 @@
 				6AC2E647748848E3ADB71D10 /* Default-Portrait-1024.png */,
 				9A456140423444EBA295E12C /* Default-Portrait@2x-2048.png */,
 				DE7B90252A3F4C69842A2D22 /* Default@4x.png */,
+				5C3560D4D06F49EBB93992E5 /* logo.png */,
+				0945C703CDB44A378858A2C2 /* logo@2x.png */,
+				610044C15FB541718E7A5930 /* logo@3x.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -356,6 +365,9 @@
 				A1F964BB35164934A212BB7B /* Default-Portrait-1024.png in Resources */,
 				6CB9E0FA718B46D08096FE13 /* Default-Portrait@2x-2048.png in Resources */,
 				E5CA63C4B81944C7A0A7BAF0 /* Default@4x.png in Resources */,
+				904ACC969BAE4F91B86C1815 /* logo.png in Resources */,
+				E50A9573A5C849BC9C6A61E5 /* logo@2x.png in Resources */,
+				8FA57123D8BA42B8A57E62B3 /* logo@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

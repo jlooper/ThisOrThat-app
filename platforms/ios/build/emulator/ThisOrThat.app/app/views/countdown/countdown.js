@@ -19,8 +19,9 @@ function pageNavigated(args) {
     three.text="3";
     three.cssClass="large"
     three.horizontalAlignment="center"
+    three.verticalAlignment="center"
     three.on("loaded", function (args) {
-        args.object.animate({ scale: { x: 2, y: 2 }, opacity: 0, duration: 1000 })
+        args.object.animate({ scale: { x: 1.5, y: 1.5 }, opacity: 0, duration: 1000 })
             .then(function () {
                 gameLayout.removeChild(three)
                 two()
@@ -43,8 +44,9 @@ function two() {
     two.text="2";
     two.cssClass="large"
     two.horizontalAlignment="center"
+    two.verticalAlignment="center"
     two.on("loaded", function (args) {
-        args.object.animate({ scale: { x: 2, y: 2 }, opacity: 0, duration: 1000 })
+        args.object.animate({ scale: { x: 1.5, y: 1.5 }, opacity: 0, duration: 1000 })
             .then(function () {
                 gameLayout.removeChild(two)
                 one()
@@ -67,8 +69,9 @@ function one() {
     one.text="1";
     one.cssClass="large"
     one.horizontalAlignment="center"
+    one.verticalAlignment="center"
     one.on("loaded", function (args) {
-        args.object.animate({ scale: { x: 2, y: 2 }, opacity: 0, duration: 1000 })
+        args.object.animate({ scale: { x: 1.5, y: 1.5 }, opacity: 0, duration: 1000 })
             .then(function () {
                 gameLayout.removeChild(one)
                 navigation.startPlay();

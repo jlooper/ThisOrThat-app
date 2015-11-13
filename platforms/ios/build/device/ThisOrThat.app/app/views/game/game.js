@@ -85,7 +85,7 @@ function timeMeOut(){
     }
     score=0;            
                     
-    wordModel.showAlert("Timeout!","Sorry, try again!",navigation.restart())
+    wordModel.showAlert("Timeout!","You timed out! Try again!",navigation.restart())
     clearTimeout();
       
 }

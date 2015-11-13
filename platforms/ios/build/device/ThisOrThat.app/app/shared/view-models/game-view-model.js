@@ -3,6 +3,8 @@ var appSettings = require("application-settings");
 var config = require("../../shared/config");
 var frameModule = require("ui/frame");
 var navigation = require("../navigation");
+var toast = require("nativescript-toast");
+var platformModule = require("platform");
 
 
 var itemCount = 0;
@@ -18,9 +20,14 @@ function GameViewModel(items) {
 	
 	var viewModel = new observableArrayModule.ObservableArray(items);
 
+	viewModel.clearImages = function(){
+
+	}
+
 
 
 	viewModel.getImageMatch = function(imgUrl,imgName,imgPath) {
+
 
 	if (itemCount==0){
 		tmpSelection1 = imgName;
@@ -31,18 +38,25 @@ function GameViewModel(items) {
 	if(tmpSelection2 == tmpSelection1){
 		var msg = "You picked the same picture twice. Please try again!";
 		viewModel.showAlert("Oops!",msg,null)
-	
 	}
 	else {
 	var msg = "You picked "+imgName+"!";
-	viewModel.showAlert("Preparing your game...",msg,null)
+	
+		if(itemCount==1){
+				//just start the game
+				navigation.startGame()
+			}
+		else
+			{
+				viewModel.showAlert(msg,"Pick a second image",null)
+
+			}
 	
 	if (!config.lang){
 		lang = "en"
 	}	
 	
 	return fetch("https://api.clarifai.com/v1/tag/", {
-
 			method: "POST",
 			body: JSON.stringify({
 				url: imgUrl,
@@ -93,7 +107,7 @@ function GameViewModel(items) {
 				tagSet = [];
 				tagSet2 = [];
 				//load game
-				navigation.startGame();
+				//navigation.startGame();
 				
 			}
 		});
@@ -114,9 +128,15 @@ function GameViewModel(items) {
     };
 
     viewModel.showAlert = function(headline,text,action){
-		var fancyAlert = YCTutorialBox.alloc().initWithHeadlineWithHelpTextWithCompletionBlock(headline, text, action);
-    	fancyAlert.show();
-    	//todo Android toast
+
+    	if (platformModule.device.os == 'iOS'){
+			var fancyAlert = YCTutorialBox.alloc().initWithHeadlineWithHelpTextWithCompletionBlock(headline, text, action);
+    		fancyAlert.show();
+    	}
+    	else{
+			var myToast = toast.makeText(text);
+			myToast.show();
+    	}
 	};
 
 	viewModel.postScore = function(score){

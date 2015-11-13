@@ -87,5 +87,4 @@ function loaded(args) {
 }
 
 exports.loaded = loaded;
-exports.signOut = navigation.signOut;
 

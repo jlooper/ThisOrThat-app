@@ -6,9 +6,9 @@ Environment  LANG=en_US.US-ASCII PATH=/Applications/Xcode.app/Contents/Developer
 BuilderIdent ProcessPCH\ /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/ios/build/sharedpch/ThisOrThat-Prefix-bimwmgahcrqevjdzujbynmncsodh/ThisOrThat-Prefix.pch.pch\ ThisOrThat/ThisOrThat-Prefix.pch\ normal\ armv7\ objective-c\ com.apple.compilers.llvm.clang.1_0.compiler
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/SDKSettings.plist 0 1443816947 1023 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/System/Library/CoreServices/SystemVersion.plist 0 1444009840 414 33188
-InputFile    /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/ios/ThisOrThat/ThisOrThat-Prefix.pch 0 1445549600 236 33188
+InputFile    /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/ios/ThisOrThat/ThisOrThat-Prefix.pch 0 1447292184 236 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/SDKSettings.plist 0 1443816947 1023 33204
-InputFile    /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/ios/ThisOrThat/ThisOrThat-Prefix.pch 0 1445549600 236 33188
+InputFile    /Users/Looper/Documents/NativeScript/ThisOrThat/platforms/ios/ThisOrThat/ThisOrThat-Prefix.pch 0 1447292184 236 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/usr/include/Availability.h 0 1443818633 12740 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/usr/include/AvailabilityInternal.h 0 1443818629 1365743 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h 0 1443829633 6266 33188

@@ -64,11 +64,11 @@ function completeRegistration() {
 }
 
 exports.register = function() {
-	if (user.isValidEmail()) {
+	if (user.isValidEmail() && user.isComplete()) {
 		completeRegistration();
 	} else {
 		dialogsModule.alert({
-			message: "Enter a valid email address.",
+			message: "Please enter valid information - all fields are required",
 			okButtonText: "OK"
 		});
 	}

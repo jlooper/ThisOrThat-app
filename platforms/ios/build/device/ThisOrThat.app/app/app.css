@@ -7,12 +7,12 @@ TextField {
 	margin: 10;
 	padding: 10;
 }
-/*Image {
+.loginImg {
 	margin-top: 20;
 	margin-left: 0;
 	margin-right: 0;
-	margin-bottom: 80;
-}*/
+	margin-bottom: 20;
+}
 Button {
 	margin: 10;
 	padding: 10;
@@ -21,4 +21,9 @@ Button {
 	background-color:#2A49A5;
 	color:white;
 	font: 12px Verdana sans-serif;
+}
+.card{
+	margin:20px;
+	background-color:#03A9F4;
+	border-radius:5;
 }

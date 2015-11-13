@@ -6,6 +6,7 @@
 		<StackLayout id="layout">
 			<!--<Button text="Sign in with Facebook" id="signInWithFBButton" tap="signInWithFacebook" class="fbButton"/>
 			<Label text=" - OR - " horizontalAlignment="center"/>-->
+			<Image class="loginImg" src="res://logo" stretch="none" horizontalAlignment="center"/>
 			<GridLayout rows="auto, auto">
 				<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" returnKeyType="next" returnPress="focusPassword" autocorrect="false" autocapitalizationType="none" row="0" />
 				<TextField id="password" secure="true" text="{{ password }}" hint="Password" returnKeyType="done" returnPress="signIn" row="1" />

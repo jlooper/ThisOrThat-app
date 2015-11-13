@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EE645D3B1F170225D9A6B275"
+               BlueprintIdentifier = "6393B895AD57C6CBED4A832E"
                BuildableName = "YCTutorialBox.framework"
                BlueprintName = "YCTutorialBox"
                ReferencedContainer = "container:Pods.xcodeproj">

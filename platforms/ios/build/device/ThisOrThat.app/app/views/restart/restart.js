@@ -17,5 +17,7 @@ exports.goHome = navigation.goToStartingPage;
 exports.getMyScores = navigation.goToMyScores;
 exports.getHighScores = navigation.goToHighScores;
 exports.goToSettings = navigation.goToSettings;
+exports.signOut = navigation.signOut;
+
 
 

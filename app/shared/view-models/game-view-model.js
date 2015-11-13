@@ -28,6 +28,7 @@ function GameViewModel(items) {
 
 	viewModel.getImageMatch = function(imgUrl,imgName,imgPath) {
 
+
 	if (itemCount==0){
 		tmpSelection1 = imgName;
 	}
@@ -40,7 +41,16 @@ function GameViewModel(items) {
 	}
 	else {
 	var msg = "You picked "+imgName+"!";
-	viewModel.showAlert("Preparing your game...",msg,null)
+	
+		if(itemCount==1){
+				//just start the game
+				navigation.startGame()
+			}
+		else
+			{
+				viewModel.showAlert(msg,"Pick a second image",null)
+
+			}
 	
 	if (!config.lang){
 		lang = "en"
@@ -97,7 +107,7 @@ function GameViewModel(items) {
 				tagSet = [];
 				tagSet2 = [];
 				//load game
-				navigation.startGame();
+				//navigation.startGame();
 				
 			}
 		});

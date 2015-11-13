@@ -2,12 +2,6 @@ Page{
 	background-color:#B3E5FC;
 }
 .large{
-	font-size:100;
-	width:60;
-	color:#FFFFFF;
-}
-.card{
-	margin:20px;
-	background-color:#03A9F4;
-	border-radius:5;
+	font-size:60;
+	color:#03A9F4;
 }

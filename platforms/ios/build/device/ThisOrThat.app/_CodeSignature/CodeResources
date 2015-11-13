@@ -16,10 +16,6 @@
 		<data>
 		iwnnnsO7bNYEZGSgbI4qy6rl6pg=
 		</data>
-		<key>AppIcon29x29~ipad.png</key>
-		<data>
-		uE2EY71J3edZEOY5R8y69xbop/U=
-		</data>
 		<key>AppIcon40x40@2x.png</key>
 		<data>
 		ov+gk4ROaJdm1vxBuTTWKi8RT1I=
@@ -39,6 +35,10 @@
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		UWU7faE0b1ZX1hpesG8SUobDwrE=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		AmyFl5dzkKFRwU9I9cJu8eaBIlI=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
@@ -90,43 +90,43 @@
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		l/SwOCvVjZEzsWQhk53tkOAO+/o=
+		vIPp09kSRhCfr79yIeY2OHNppig=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
-		mB92hdxgg29IHxVq8HdrrvSCKWA=
+		Yn+P7RGCRxwUwp+Ulc5sO3cfWwc=
 		</data>
 		<key>Frameworks/Bolts.framework/_CodeSignature/CodeResources</key>
 		<data>
-		aOhLFrE+8tKcbwOLY2+Fp91wFjs=
+		y9vJA+BmuEKDkUo8VM8Nv8SepEY=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-		NMS9iMCV3lvXxP8ra1QwaJRc5XI=
+		IiKi19AOYSKenmGtLGaaOV88szg=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/Info.plist</key>
 		<data>
-		v3HWnAVKstSmdMvAkhOVnqNutAc=
+		rRPYEHo9fka2NyPdXLop+Wd5eas=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Hc4sVoK1cWi2QoUKwxwFEBHEzA8=
+		2muNVAld20f7aKk3hH6LB3oYohI=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-		iDXVUCBdgo137iYwUxvAENNmjPQ=
+		OtLRsY45NUUVTGxO1guGj5ShCCc=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
-		U4k4oI7GszN1QwGISEekG1bh7jA=
+		bunJbEebSf77LrJ0/iBSV+oZPh4=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BjF3ygvoRDN9c65VL0lxozwD76E=
+		OxJKww2DzUTALkfPTqeDUKBMHIM=
 		</data>
 		<key>Frameworks/FXBlurView.framework/FXBlurView</key>
 		<data>
-		s4l/082K9NV1isaeObOOPEvidWo=
+		hcm25sKylfrtV8ED5S4HOPesRsU=
 		</data>
 		<key>Frameworks/FXBlurView.framework/Info.plist</key>
 		<data>
@@ -142,15 +142,15 @@
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/YCTutorialBox</key>
 		<data>
-		eaL7wlIKBPzxPIA8f5/kq4h+rEg=
+		NxVLqakKDu11PTInrnVLbqq8WPA=
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/YCTutorialBox.nib</key>
 		<data>
-		doPnecJZaIa6zMw7kHci6dBqtaw=
+		rrp1Y6HRyRSSWlT2vyuSurbegko=
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bqJsHzsnYCl2tUH0tWQHrult/zQ=
+		1F8mR7tCzEFQSkMdHmrIZyxnsh4=
 		</data>
 		<key>Icon-40.png</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3PD3Gs8U9XkyOO81fsXES8l/9zA=
+		Kzu24gZ9i8DR2d6dzC48T4EI22A=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		7snEPfZaJAQno7DSEFxzqnlbNPM=
+		FNzrlfgmHe6UiqeJmyd9wIGPx/o=
 		</data>
 		<key>app/app.js</key>
 		<data>
@@ -260,9 +260,17 @@
 		<data>
 		I3i0eL0D4YtHmSXPziTt2gbbHWE=
 		</data>
+		<key>app/images/logo.png</key>
+		<data>
+		pO9lN05WNXCDIn2Y9n0MpB2PMVo=
+		</data>
 		<key>app/images/orange.jpg</key>
 		<data>
 		38hP073B7grhGitNROTpGpXYPuo=
+		</data>
+		<key>app/package.html</key>
+		<data>
+		dw52sy7cXtt9JhwHSJwXum8DMqw=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -290,11 +298,11 @@
 		</data>
 		<key>app/shared/view-models/game-view-model.js</key>
 		<data>
-		YwW2WLDdVjWN1K4anT5Q43ogmN0=
+		ngOZWGes2PTmlNeIbUCalZ3gRYw=
 		</data>
 		<key>app/shared/view-models/user-view-model.js</key>
 		<data>
-		WMPd1PHijgQZDwIfUBqmYYy2HB4=
+		dp3p2UsHnBjys6wN4E5dAT4+m0E=
 		</data>
 		<key>app/tns_modules/LICENSE</key>
 		<data>
@@ -1250,15 +1258,15 @@
 		</data>
 		<key>app/views/countdown/countdown.css</key>
 		<data>
-		mdPH7bkLWAPwQKzNsAsA2gwhPmQ=
+		6box4c/igdjMI7yElo0BYNOSGnY=
 		</data>
 		<key>app/views/countdown/countdown.js</key>
 		<data>
-		az5Dg+2JiXJ6TyG5llPSrw5zfcs=
+		w2ylFodaD5xUUJyhms+X/7ZVKjw=
 		</data>
 		<key>app/views/countdown/countdown.xml</key>
 		<data>
-		z3ohpqGstKDhswYuHiIq7TvQQFk=
+		C1/WFQRmKkTrKIyDdQXRvSl3b1k=
 		</data>
 		<key>app/views/game-selection/game-selection.js</key>
 		<data>
@@ -1266,7 +1274,7 @@
 		</data>
 		<key>app/views/game-selection/game-selection.xml</key>
 		<data>
-		nHpFdYsSOKw9cDA0IIu+BLjGlyY=
+		jDjTNdShWAbuBacQ9QTuX8Y2cYs=
 		</data>
 		<key>app/views/game/game.css</key>
 		<data>
@@ -1274,7 +1282,7 @@
 		</data>
 		<key>app/views/game/game.js</key>
 		<data>
-		TsGCTV9wW85QoU5HiaUpmkRNqFM=
+		pZqORGGboOJ8sUK0HTog+P+/JJ4=
 		</data>
 		<key>app/views/game/game.xml</key>
 		<data>
@@ -1298,7 +1306,7 @@
 		</data>
 		<key>app/views/login/login.xml</key>
 		<data>
-		E/fN1AsLYyEwSv9ObN3li8N6vkg=
+		XgU2BKTHbb7ya/TOU0sUWgBmB1o=
 		</data>
 		<key>app/views/my-scores/my-scores.css</key>
 		<data>
@@ -1326,7 +1334,7 @@
 		</data>
 		<key>app/views/register/register.js</key>
 		<data>
-		1PMNwT8PhLc0C4ydSPYa8eLJvkA=
+		ZeKUAFebaICG1ZweTr5R7ZvzKXI=
 		</data>
 		<key>app/views/register/register.xml</key>
 		<data>
@@ -1338,19 +1346,23 @@
 		</data>
 		<key>app/views/restart/restart.js</key>
 		<data>
-		l+SzvHekMIa33p+g1CKBvYcBP8o=
+		mgOGXcKjts8AHbxaMDjdp4VJExY=
 		</data>
 		<key>app/views/restart/restart.xml</key>
 		<data>
-		j39UNFxfEeIE8odKw+bxNJffqMM=
+		BypyChQCisrJbRbCklOLXi67d0k=
+		</data>
+		<key>app/views/settings/settings.css</key>
+		<data>
+		vdg4bijpEw4fMuqeIluiVOA8Brc=
 		</data>
 		<key>app/views/settings/settings.js</key>
 		<data>
-		uJ3T0vXYa0lAy5nEKtW0FteVakA=
+		ZEY+O5G2UFoam+015RXPzLdtpUM=
 		</data>
 		<key>app/views/settings/settings.xml</key>
 		<data>
-		Cs2xuRZxKrxpWDBUAwdcYH7p2p4=
+		twTEFxDjwFnpQW7Ek/Yfl44Twd4=
 		</data>
 		<key>crown.png</key>
 		<data>
@@ -1388,6 +1400,18 @@
 		<key>home@3x.png</key>
 		<data>
 		ufczZHucZf3J66sffT6qrI+T4KI=
+		</data>
+		<key>logo.png</key>
+		<data>
+		Vp6aymMHEDTbfH/gSX+MUG9/7Mc=
+		</data>
+		<key>logo@2x.png</key>
+		<data>
+		UCYUH1jSVUdCbYyu9UXTjLIwD+c=
+		</data>
+		<key>logo@3x.png</key>
+		<data>
+		Ar5PzWy0+qCCjMwHpULJqZEJe/E=
 		</data>
 		<key>restart.png</key>
 		<data>
@@ -1440,10 +1464,6 @@
 		<data>
 		iwnnnsO7bNYEZGSgbI4qy6rl6pg=
 		</data>
-		<key>AppIcon29x29~ipad.png</key>
-		<data>
-		uE2EY71J3edZEOY5R8y69xbop/U=
-		</data>
 		<key>AppIcon40x40@2x.png</key>
 		<data>
 		ov+gk4ROaJdm1vxBuTTWKi8RT1I=
@@ -1463,6 +1483,10 @@
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		UWU7faE0b1ZX1hpesG8SUobDwrE=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		AmyFl5dzkKFRwU9I9cJu8eaBIlI=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
@@ -1514,43 +1538,43 @@
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		l/SwOCvVjZEzsWQhk53tkOAO+/o=
+		vIPp09kSRhCfr79yIeY2OHNppig=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
-		mB92hdxgg29IHxVq8HdrrvSCKWA=
+		Yn+P7RGCRxwUwp+Ulc5sO3cfWwc=
 		</data>
 		<key>Frameworks/Bolts.framework/_CodeSignature/CodeResources</key>
 		<data>
-		aOhLFrE+8tKcbwOLY2+Fp91wFjs=
+		y9vJA+BmuEKDkUo8VM8Nv8SepEY=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-		NMS9iMCV3lvXxP8ra1QwaJRc5XI=
+		IiKi19AOYSKenmGtLGaaOV88szg=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/Info.plist</key>
 		<data>
-		v3HWnAVKstSmdMvAkhOVnqNutAc=
+		rRPYEHo9fka2NyPdXLop+Wd5eas=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Hc4sVoK1cWi2QoUKwxwFEBHEzA8=
+		2muNVAld20f7aKk3hH6LB3oYohI=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-		iDXVUCBdgo137iYwUxvAENNmjPQ=
+		OtLRsY45NUUVTGxO1guGj5ShCCc=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
-		U4k4oI7GszN1QwGISEekG1bh7jA=
+		bunJbEebSf77LrJ0/iBSV+oZPh4=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BjF3ygvoRDN9c65VL0lxozwD76E=
+		OxJKww2DzUTALkfPTqeDUKBMHIM=
 		</data>
 		<key>Frameworks/FXBlurView.framework/FXBlurView</key>
 		<data>
-		s4l/082K9NV1isaeObOOPEvidWo=
+		hcm25sKylfrtV8ED5S4HOPesRsU=
 		</data>
 		<key>Frameworks/FXBlurView.framework/Info.plist</key>
 		<data>
@@ -1566,15 +1590,15 @@
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/YCTutorialBox</key>
 		<data>
-		eaL7wlIKBPzxPIA8f5/kq4h+rEg=
+		NxVLqakKDu11PTInrnVLbqq8WPA=
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/YCTutorialBox.nib</key>
 		<data>
-		doPnecJZaIa6zMw7kHci6dBqtaw=
+		rrp1Y6HRyRSSWlT2vyuSurbegko=
 		</data>
 		<key>Frameworks/YCTutorialBox.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bqJsHzsnYCl2tUH0tWQHrult/zQ=
+		1F8mR7tCzEFQSkMdHmrIZyxnsh4=
 		</data>
 		<key>Icon-40.png</key>
 		<data>
@@ -1650,7 +1674,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		7snEPfZaJAQno7DSEFxzqnlbNPM=
+		FNzrlfgmHe6UiqeJmyd9wIGPx/o=
 		</data>
 		<key>app/app.js</key>
 		<data>
@@ -1676,9 +1700,17 @@
 		<data>
 		I3i0eL0D4YtHmSXPziTt2gbbHWE=
 		</data>
+		<key>app/images/logo.png</key>
+		<data>
+		pO9lN05WNXCDIn2Y9n0MpB2PMVo=
+		</data>
 		<key>app/images/orange.jpg</key>
 		<data>
 		38hP073B7grhGitNROTpGpXYPuo=
+		</data>
+		<key>app/package.html</key>
+		<data>
+		dw52sy7cXtt9JhwHSJwXum8DMqw=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -1706,11 +1738,11 @@
 		</data>
 		<key>app/shared/view-models/game-view-model.js</key>
 		<data>
-		YwW2WLDdVjWN1K4anT5Q43ogmN0=
+		ngOZWGes2PTmlNeIbUCalZ3gRYw=
 		</data>
 		<key>app/shared/view-models/user-view-model.js</key>
 		<data>
-		WMPd1PHijgQZDwIfUBqmYYy2HB4=
+		dp3p2UsHnBjys6wN4E5dAT4+m0E=
 		</data>
 		<key>app/tns_modules/LICENSE</key>
 		<data>
@@ -2666,15 +2698,15 @@
 		</data>
 		<key>app/views/countdown/countdown.css</key>
 		<data>
-		mdPH7bkLWAPwQKzNsAsA2gwhPmQ=
+		6box4c/igdjMI7yElo0BYNOSGnY=
 		</data>
 		<key>app/views/countdown/countdown.js</key>
 		<data>
-		az5Dg+2JiXJ6TyG5llPSrw5zfcs=
+		w2ylFodaD5xUUJyhms+X/7ZVKjw=
 		</data>
 		<key>app/views/countdown/countdown.xml</key>
 		<data>
-		z3ohpqGstKDhswYuHiIq7TvQQFk=
+		C1/WFQRmKkTrKIyDdQXRvSl3b1k=
 		</data>
 		<key>app/views/game-selection/game-selection.js</key>
 		<data>
@@ -2682,7 +2714,7 @@
 		</data>
 		<key>app/views/game-selection/game-selection.xml</key>
 		<data>
-		nHpFdYsSOKw9cDA0IIu+BLjGlyY=
+		jDjTNdShWAbuBacQ9QTuX8Y2cYs=
 		</data>
 		<key>app/views/game/game.css</key>
 		<data>
@@ -2690,7 +2722,7 @@
 		</data>
 		<key>app/views/game/game.js</key>
 		<data>
-		TsGCTV9wW85QoU5HiaUpmkRNqFM=
+		pZqORGGboOJ8sUK0HTog+P+/JJ4=
 		</data>
 		<key>app/views/game/game.xml</key>
 		<data>
@@ -2714,7 +2746,7 @@
 		</data>
 		<key>app/views/login/login.xml</key>
 		<data>
-		E/fN1AsLYyEwSv9ObN3li8N6vkg=
+		XgU2BKTHbb7ya/TOU0sUWgBmB1o=
 		</data>
 		<key>app/views/my-scores/my-scores.css</key>
 		<data>
@@ -2742,7 +2774,7 @@
 		</data>
 		<key>app/views/register/register.js</key>
 		<data>
-		1PMNwT8PhLc0C4ydSPYa8eLJvkA=
+		ZeKUAFebaICG1ZweTr5R7ZvzKXI=
 		</data>
 		<key>app/views/register/register.xml</key>
 		<data>
@@ -2754,19 +2786,23 @@
 		</data>
 		<key>app/views/restart/restart.js</key>
 		<data>
-		l+SzvHekMIa33p+g1CKBvYcBP8o=
+		mgOGXcKjts8AHbxaMDjdp4VJExY=
 		</data>
 		<key>app/views/restart/restart.xml</key>
 		<data>
-		j39UNFxfEeIE8odKw+bxNJffqMM=
+		BypyChQCisrJbRbCklOLXi67d0k=
+		</data>
+		<key>app/views/settings/settings.css</key>
+		<data>
+		vdg4bijpEw4fMuqeIluiVOA8Brc=
 		</data>
 		<key>app/views/settings/settings.js</key>
 		<data>
-		uJ3T0vXYa0lAy5nEKtW0FteVakA=
+		ZEY+O5G2UFoam+015RXPzLdtpUM=
 		</data>
 		<key>app/views/settings/settings.xml</key>
 		<data>
-		Cs2xuRZxKrxpWDBUAwdcYH7p2p4=
+		twTEFxDjwFnpQW7Ek/Yfl44Twd4=
 		</data>
 		<key>crown.png</key>
 		<data>
@@ -2804,6 +2840,18 @@
 		<key>home@3x.png</key>
 		<data>
 		ufczZHucZf3J66sffT6qrI+T4KI=
+		</data>
+		<key>logo.png</key>
+		<data>
+		Vp6aymMHEDTbfH/gSX+MUG9/7Mc=
+		</data>
+		<key>logo@2x.png</key>
+		<data>
+		UCYUH1jSVUdCbYyu9UXTjLIwD+c=
+		</data>
+		<key>logo@3x.png</key>
+		<data>
+		Ar5PzWy0+qCCjMwHpULJqZEJe/E=
 		</data>
 		<key>restart.png</key>
 		<data>

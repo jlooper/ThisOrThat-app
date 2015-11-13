@@ -34,6 +34,10 @@
 				<Image col="0" row="1" src="res://settings" stretch="none" horizontalAlignment="center"/>
 			</GridLayout>
 
+			<GridLayout columns="*" rows="auto" class="btn" horizontalAlignment="center" verticalAlignment="center" tap="signOut">
+				<Label col="0" row="0" text="Sign Out" horizontalAlignment="center"/>
+			</GridLayout>
+
 
 		</StackLayout>
 	

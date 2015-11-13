@@ -2,7 +2,6 @@ var config = require("../../shared/config");
 var observableModule = require("data/observable");
 var validator = require("email-validator/index");
 
-
 function User(info) {
 	info = info || {};
 
@@ -106,6 +105,15 @@ function User(info) {
 		var email = this.get("email");
 		return validator.validate(email);
 	};
+
+	viewModel.isComplete = function(){
+		if(this.get("email") && this.get("password") && this.get("displayname")){
+			return true
+		}
+		else{
+			return false
+		}
+	}
 
 	return viewModel;
 }

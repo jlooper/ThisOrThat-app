@@ -2,7 +2,7 @@
 	"nativescript": {
 		"id": "com.ladeezfirstmedia.thisorthat",
 		"tns-ios": {
-			"version": "1.4.0"
+			"version": "1.4.1"
 		},
 		"tns-android": {
 			"version": "1.4.0"

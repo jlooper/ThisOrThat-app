@@ -20,13 +20,9 @@ function GameViewModel(items) {
 	
 	var viewModel = new observableArrayModule.ObservableArray(items);
 
-	viewModel.clearImages = function(){
-
-	}
-
-
-
+	
 	viewModel.getImageMatch = function(imgUrl,imgName,imgPath) {
+
 
 	if (itemCount==0){
 		tmpSelection1 = imgName;
@@ -40,7 +36,16 @@ function GameViewModel(items) {
 	}
 	else {
 	var msg = "You picked "+imgName+"!";
-	viewModel.showAlert("Preparing your game...",msg,null)
+	
+		if(itemCount==1){
+				//just start the game
+				navigation.startGame()
+			}
+		else
+			{
+				viewModel.showAlert(msg,"Pick a second image",null)
+
+			}
 	
 	if (!config.lang){
 		lang = "en"
@@ -84,9 +89,8 @@ function GameViewModel(items) {
 			appSettings.setLength=tagSet.length;
 			//create all strings
 			for (i = 0; i < tagSet.length; i++) { 
-				appSettings.setString("word"+i,tagSet[i])
-					//console.log(tagSet[i])
-				}	
+				appSettings.setString("word"+i,tagSet[i])					
+			}	
 				
 			
 			appSettings.setString("image"+itemCount,imgPath)
@@ -96,8 +100,7 @@ function GameViewModel(items) {
 				itemCount = 0;
 				tagSet = [];
 				tagSet2 = [];
-				//load game
-				navigation.startGame();
+				//navigation.startGame();
 				
 			}
 		});
@@ -145,7 +148,7 @@ function GameViewModel(items) {
 		.then(function(response) {
 			return response.json();
 		}).then(function(data) {
-			//config.token = data.Result.access_token;
+			//do nothing
 		});
 	};
 
@@ -212,7 +215,6 @@ function GameViewModel(items) {
 
 function handleErrors(response) {
 	if (!response.ok) {
-		//console.log(JSON.stringify(response));
 		//token is invalid
 		if (response.status === 403) {
 			navigation.signOut();

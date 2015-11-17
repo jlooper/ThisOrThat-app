@@ -45,7 +45,6 @@ exports.loaded = function(args) {
 		email.android.clearFocus();
 	}
 
-	//frameModule.topmost().navigate("views/game-selection/game-selection");
 };
 
 exports.focusPassword = function() {

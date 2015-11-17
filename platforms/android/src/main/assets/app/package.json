@@ -17,10 +17,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/NativeScript/template-hello-world.git"
+		"url": "https://github.com/jlooper/thisorthat-app"
 	},
 	"bugs": {
-		"url": "https://github.com/NativeScript/template-hello-world/issues"
+		"url": "https://github.com/jlooper/thisorthat-app/issues"
 	},
-	"homepage": "https://github.com/NativeScript/template-hello-world"
+	"homepage": "http://www.ladeezfirstmedia.com/apps/thisorthat"
 }

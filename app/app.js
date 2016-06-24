@@ -1,6 +1,7 @@
-var applicationModule = require("application");
+var application = require("application");
+var navigation = require("./shared/navigation");
 
-/*if(application.ios){
+if(application.ios){
     
     var AppDelegate = UIResponder.extend({
     applicationDidFinishLaunchingWithOptions(application, launchOptions) {
@@ -14,14 +15,13 @@ var applicationModule = require("application");
     applicationDidBecomeActive(application) {
         FBSDKAppEvents.activateApp();
     }
-}, {
-    protocols: [UIApplicationDelegate]
-});
+    }, {
+        protocols: [UIApplicationDelegate]
+    });
 
     application.ios.delegate = AppDelegate;
 
-}*/
-var navigation = require("./shared/navigation");
-applicationModule.mainModule = navigation.startingPage();
-applicationModule.cssFile = "./app.css";
-applicationModule.start();
+}
+application.mainModule = navigation.startingPage();
+application.cssFile = "./app.css";
+application.start();

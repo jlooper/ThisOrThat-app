@@ -1,6 +1,7 @@
 var dialogsModule = require("ui/dialogs");
 var formUtil = require("../../shared/utils/form-util");
 var UserViewModel = require("../../shared/view-models/user-view-model");
+var actionBarUtil = require("../../shared/utils/action-bar-util");
 
 var user = new UserViewModel({ authenticating: false });
 var email;
@@ -9,7 +10,8 @@ var resetButton;
 exports.loaded = function(args) {
 	var page = args.object;
 	page.bindingContext = user;
-
+	actionBarUtil.styleActionBar();
+    
 	user.set("email", "");
 
 	email = page.getViewById("email");

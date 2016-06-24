@@ -3,7 +3,8 @@
 		<ActionBar title="Pick a Language">			
 		</ActionBar>
 	</Page.actionBar>
-	<StackLayout class="card">
-		<ListPicker id="langPicker" items="{{ langList }}"/>		
+	<StackLayout>
+		<ListPicker id="langPicker" items="{{ langList }}"/>
+		<Button class="button" text="Choose a Language" tap="selectLanguage"></Button>		
 	</StackLayout>
 </Page>

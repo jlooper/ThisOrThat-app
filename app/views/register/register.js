@@ -3,6 +3,7 @@ var frameModule = require("ui/frame");
 var formUtil = require("../../shared/utils/form-util");
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var navigation = require("../../shared/navigation");
+var actionBarUtil = require("../../shared/utils/action-bar-util");
 
 var user = new UserViewModel({ authenticating: false });
 var email;
@@ -13,7 +14,8 @@ var signUpButton;
 exports.loaded = function(args) {
 	var page = args.object;
 	page.bindingContext = user;
-
+	actionBarUtil.styleActionBar();
+    
 	user.set("email", "");
 	user.set("password", "");
 	user.set("displayname", "");
@@ -66,10 +68,22 @@ function completeRegistration() {
 exports.register = function() {
 	if (user.isValidEmail() && user.isComplete()) {
 		completeRegistration();
-	} else {
+	} 
+	
+	else {
+		//if only the email is off
+		if (!user.isValidEmail() && user.isComplete()){
+			dialogsModule.alert({
+			message: "Please enter a valid email",
+			okButtonText: "OK"
+			});
+		}
+		//if the fields are incomplete
+		if (!user.isComplete()){
 		dialogsModule.alert({
-			message: "Please enter valid information - all fields are required",
+			message: "All fields are required",
 			okButtonText: "OK"
 		});
+	  }
 	}
 };

@@ -6,5 +6,5 @@
 	</Page.actionBar>
 
 	<StackLayout id="gameLayout" orientation="horizontal" horizontalAlignment="center" verticalAlignment="center" minHeight="300"/>
-
+	
 </Page>

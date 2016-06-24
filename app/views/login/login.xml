@@ -4,18 +4,17 @@
 	</Page.actionBar>
 	<ScrollView>
 		<StackLayout id="layout">
-			<!--<Button text="Sign in with Facebook" id="signInWithFBButton" tap="signInWithFacebook" class="fbButton"/>
-			<Label text=" - OR - " horizontalAlignment="center"/>-->
+			<Button text="Sign in with Facebook" id="signInWithFBButton" tap="signInWithFacebook" class="fbButton"/>
+			<Label text=" - OR - " horizontalAlignment="center"/>
 			<Image class="loginImg" src="res://logo" stretch="none" horizontalAlignment="center"/>
 			<GridLayout rows="auto, auto">
 				<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" returnKeyType="next" returnPress="focusPassword" autocorrect="false" autocapitalizationType="none" row="0" />
 				<TextField id="password" secure="true" text="{{ password }}" hint="Password" returnKeyType="done" returnPress="signIn" row="1" />
 				<ActivityIndicator busy="{{ authenticating }}" rowSpan="2" />
 			</GridLayout>
-
 			<Button text="Sign in" id="signInButton" tap="signIn" class="button" />
 			<Button text="Sign up" tap="register" class="link" />
-			<Button text="Forgot password?" tap="forgotPassword" class="link" />
+			<Button text="Forgot your password?" tap="forgotPassword" class="link" />
 		</StackLayout>
 	</ScrollView>
 </Page>

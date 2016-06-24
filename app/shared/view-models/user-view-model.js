@@ -48,7 +48,7 @@ function User(info) {
 	    });
 	};
 
-	/*viewModel.loginWithFacebook = function(token) {
+	viewModel.loginWithFacebook = function(token) {
 		var user = {
 		    "Identity": {
 		        "Provider": "Facebook",
@@ -70,7 +70,7 @@ function User(info) {
 			viewModel.getCurrentUser();
 
 		});
-	};*/
+	};
 
 	viewModel.register = function() {
 		return fetch(config.apiUrl + "Users", {

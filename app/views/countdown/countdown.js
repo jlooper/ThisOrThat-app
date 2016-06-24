@@ -82,7 +82,7 @@ function one() {
 
     gameLayout.addChild(one);
 
-    
+   
    
 }
 

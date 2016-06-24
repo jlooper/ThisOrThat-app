@@ -5,12 +5,12 @@
 		</ActionBar>
 	</Page.actionBar>
 
-	<GridLayout>
+	<StackLayout>
         <ListView items="{{ scoresList }}">
             <ListView.itemTemplate>
                 <Label text="{{ score }}" horizontalAlignment="left" verticalAlignment="center"/>
             </ListView.itemTemplate>
         </ListView>
-    </GridLayout>
+    </StackLayout>
 
 </Page>

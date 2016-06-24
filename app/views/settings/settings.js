@@ -3,6 +3,7 @@ var observableModule = require("data/observable");
 var appSettings = require("application-settings");
 var config = require("../../shared/config");
 var navigation = require("../../shared/navigation");
+var actionBarUtil = require("../../shared/utils/action-bar-util");
 
 var pageData = new observableModule.Observable({
     langList: ["English","Arabic","Bengali","Danish","German","Spanish","Finnish","French","Hindi","Italian","Japanese","Dutch","Norwegian","Punjabi","Polish","Portuguese","Russian","Swedish","Turkish","Chinese Traditional","Chinese Simplified"]
@@ -11,7 +12,8 @@ var pageData = new observableModule.Observable({
 function loaded(args) {
     page = args.object;
     page.bindingContext = pageData;
-
+	actionBarUtil.styleActionBar();
+    
     var langPicker = page.getViewById("langPicker");
     langPicker.addEventListener(observableModule.Observable.propertyChangeEvent, function (e) {
     var lang;
@@ -87,4 +89,6 @@ function loaded(args) {
 }
 
 exports.loaded = loaded;
+exports.selectLanguage = navigation.goToStartingPage;
+
 

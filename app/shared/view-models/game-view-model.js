@@ -6,7 +6,6 @@ var navigation = require("../navigation");
 var toast = require("nativescript-toast");
 var platformModule = require("platform");
 
-
 var itemCount = 0;
 var tagSet = [];
 var tagSet2 = [];
@@ -18,12 +17,13 @@ var tmpSelection2;
 			
 function GameViewModel(items) {
 	
+	
 	var viewModel = new observableArrayModule.ObservableArray(items);
 
 	
 	viewModel.getImageMatch = function(imgUrl,imgName,imgPath) {
-
-
+	
+	console.log(tmpSelection1,tmpSelection2)
 	if (itemCount==0){
 		tmpSelection1 = imgName;
 	}
@@ -170,7 +170,7 @@ function GameViewModel(items) {
 	        return response.json();
 	    }).then(function(data) {
 	        data.Result.forEach(function(score) {
-	            viewModel.push({
+				viewModel.push({
 	                score: score.Score,
 	                id: score.Id
 	            });

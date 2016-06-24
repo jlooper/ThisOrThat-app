@@ -2,7 +2,7 @@ var dialogsModule = require("ui/dialogs");
 var frameModule = require("ui/frame");
 var formUtil = require("../../shared/utils/form-util");
 var userModel = require("../../shared/view-models/user-view-model");
-//var FacebookLoginHandler = require("nativescript-facebook-login");
+var FacebookLoginHandler = require("nativescript-facebook-login");
 var appSettings = require("application-settings");
 var actionBarUtil = require("../../shared/utils/action-bar-util");
 var navigation = require("../../shared/navigation");
@@ -71,6 +71,7 @@ exports.signIn = function() {
 		.catch(function(error) {
 			console.log(error);
 			dialogsModule.alert({
+				//todo, improve error messages
 				message: "Unfortunately we could not find your account.",
 				okButtonText: "OK"
 			});
@@ -78,7 +79,7 @@ exports.signIn = function() {
 		.then(enableForm);
 };
 
-/*exports.signInWithFacebook = function() {
+exports.signInWithFacebook = function() {
 	disableForm();
 	
 	var successCallback = function(result) {
@@ -90,7 +91,6 @@ exports.signIn = function() {
 	    else if (_page.ios){
 	      token = result.token.tokenString
 	    }
-	    console.log(token);
 	    user.loginWithFacebook(token)
 		.then(function() {
 			frameModule.topmost().navigate("views/game-selection/game-selection");
@@ -106,16 +106,18 @@ exports.signIn = function() {
 	}
 	var cancelCallback = function() {
 	    alert("Login was cancelled");
+		enableForm();
 	  }
 
 	var failCallback = function() {
-	    alert("Unexpected error: Cannot get access token");
+	    alert("Sorry, we're having trouble logging you in. Please make sure you have given Facebook access to this app.");
+		enableForm();
 	  } 
 	FacebookLoginHandler.init();
 	FacebookLoginHandler.registerCallback(successCallback, cancelCallback, failCallback);
 	//Ask for the permissions you want to use
 	FacebookLoginHandler.logInWithPublishPermissions(["publish_actions"]); 	
-};*/
+};
 
 
 exports.register = navigation.goToRegisterPage;

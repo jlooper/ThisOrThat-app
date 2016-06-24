@@ -17,11 +17,11 @@ Button {
 	margin: 10;
 	padding: 10;
 }
-/*.fbButton{
+.fbButton{
 	background-color:#2A49A5;
 	color:white;
 	font: 12px Verdana sans-serif;
-}*/
+}
 .card{
 	margin:20px;
 	background-color:#03A9F4;

@@ -16,7 +16,7 @@
 	<GridLayout dock="top" id="gameView"> 
 
 
-			<GridLayout columns="*,*" rows="*,*,*" id="gameGrid">
+			<GridLayout columns="*,*" rows="*,*,*,*" id="gameGrid">
 				
 			    
 			    <Image row="0" col="0" src="~/images/cat.jpg" id="cat"/>
@@ -27,6 +27,9 @@
 
 			    <Image row="2" col="0" src="~/images/apple.jpg" id="apple"/>
 			    <Image row="2" col="1" src="~/images/bird.jpg" id="bird"/>
+				
+				<Image row="3" col="0" src="~/images/shoe.jpg" id="shoe"/>
+			    <Image row="3" col="1" src="~/images/fish.jpg" id="fish"/>
 			    
 			</GridLayout>
 	  

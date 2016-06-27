@@ -1,6 +1,6 @@
 {
 	"nativescript": {
-		"id": "com.ladeezfirstmedia.thisorthat",
+		"id": "com.nativescript.ThisOrThat",
 		"tns-android": {
 			"version": "2.0.0"
 		},
@@ -12,7 +12,7 @@
 		"email-validator": "^1.0.2",
 		"fancyAlert": "file:fancyAlert",
 		"nativescript-facebook-login": "^0.2.0",
-		"nativescript-toast": "^1.1.3",
+		"nativescript-toast": "^1.3.0",
 		"tns-core-modules": "^2.0.0"
 	},
 	"devDependencies": {

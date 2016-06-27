@@ -20,10 +20,14 @@ Button {
 .fbButton{
 	background-color:#2A49A5;
 	color:white;
-	font: 12px Verdana sans-serif;
+	font: 12px;
 }
 .card{
 	margin:20px;
 	background-color:#03A9F4;
 	border-radius:5;
+}
+ActionBar {
+	background-color: #03A9F4;
+	color: #FFF;
 }

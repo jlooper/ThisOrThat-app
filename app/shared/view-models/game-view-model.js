@@ -22,8 +22,6 @@ function GameViewModel(items) {
 
 	
 	viewModel.getImageMatch = function(imgUrl,imgName,imgPath) {
-	
-	console.log(tmpSelection1,tmpSelection2)
 	if (itemCount==0){
 		tmpSelection1 = imgName;
 	}
@@ -63,7 +61,7 @@ function GameViewModel(items) {
 			}
 		})
 		.then(handleErrors)
-		.then(function(response) {
+		.then(function(response) {			
 			return response.json();
 		}).then(function(data) {
 			itemCount = itemCount+1;

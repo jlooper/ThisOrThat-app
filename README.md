@@ -12,4 +12,4 @@ Download it for [iOS](https://itunes.apple.com/us/app/thisorthat-game-words-tags
 
 Download it for [Android](https://play.google.com/store/apps/details?id=org.nativescript.ThisOrThat)
 
-I discussed this game and building it in NativeScript [in this talk](https://github.com/jlooper/Presentations/blob/master/qCon-SF/qCon_final.pptx)
+I discussed this game and building it in NativeScript [in this talk](https://github.com/jlooper/Presentations/blob/master/2015/qCon-SF%202015/qCon_final.pptx)
